@@ -1,0 +1,2201 @@
+Temperature,Humidity,Moisture,Soil Type,Crop,Nutrient,Fertilizer Name
+15.53,19.88,67.5,Loamy,maize,P,Super Phosphate
+29.3,16.65,78.92,Clay,millet,N,Urea
+15.23,14.93,79.23,Clay,groundnut,K,DAP
+36.32,75.87,71.24,Black,wheat,P,Ammonium Sulphate
+24.47,15.85,10.39,Loamy,wheat,P,Super Phosphate
+21.05,51.28,34.93,Clay,sugarcane,N,Urea
+30.72,41.56,38.61,Clay,groundnut,K,Urea
+16.23,62.01,34.89,Sandy,sugarcane,K,DAP
+20.19,21.27,13.84,Loamy,maize,P,Ammonium Sulphate
+28.78,59.77,85.61,Sandy,groundnut,K,Compost
+38.49,63.05,60.49,Loamy,cotton,N,DAP
+26.69,19.24,85.34,Loamy,groundnut,P,Urea
+26.2,38.93,83.56,Red,rice,K,DAP
+24.38,79.1,55.73,Clay,millet,P,Potash
+23.04,88.0,74.95,Red,cotton,K,Ammonium Sulphate
+25.46,40.28,43.37,Black,sugarcane,K,DAP
+37.03,24.25,86.55,Black,millet,K,Super Phosphate
+30.42,22.51,44.01,Red,millet,N,Ammonium Sulphate
+31.8,32.41,15.22,Loamy,groundnut,N,DAP
+40.98,59.3,89.13,Black,groundnut,N,DAP
+44.75,71.57,82.52,Sandy,cotton,P,DAP
+18.36,16.27,50.48,Clay,sugarcane,P,Super Phosphate
+33.89,68.26,42.7,Red,wheat,P,Potash
+38.91,65.46,36.62,Black,wheat,N,DAP
+30.6,24.56,28.81,Red,sugarcane,P,DAP
+43.84,83.64,66.52,Clay,maize,N,Potash
+39.73,30.84,53.63,Red,wheat,K,Ammonium Sulphate
+38.18,47.63,84.14,Red,sugarcane,N,Compost
+15.67,24.5,60.39,Sandy,groundnut,P,DAP
+28.62,85.91,80.81,Sandy,sugarcane,N,Compost
+10.01,52.38,52.91,Red,groundnut,P,DAP
+24.73,53.11,48.99,Black,groundnut,N,DAP
+26.24,81.22,16.66,Black,millet,P,Compost
+44.45,56.93,65.19,Black,sugarcane,N,Potash
+38.53,31.71,39.16,Sandy,groundnut,N,Urea
+35.64,28.29,29.34,Red,rice,N,DAP
+23.55,57.09,40.48,Black,groundnut,P,DAP
+18.08,12.46,45.14,Loamy,barley,P,Potash
+15.97,69.78,32.25,Black,sugarcane,P,Compost
+23.29,51.25,64.46,Clay,rice,K,Super Phosphate
+13.66,63.17,26.97,Black,wheat,N,Ammonium Sulphate
+33.4,46.11,22.99,Sandy,barley,K,Ammonium Sulphate
+31.76,30.12,73.03,Black,cotton,N,Compost
+25.64,28.25,34.02,Red,sugarcane,N,DAP
+44.4,35.71,89.27,Sandy,millet,K,Urea
+13.48,24.96,54.38,Black,groundnut,N,Super Phosphate
+19.54,45.84,57.08,Loamy,maize,K,Super Phosphate
+16.07,78.84,55.25,Black,sugarcane,N,Ammonium Sulphate
+26.97,22.72,11.03,Clay,wheat,N,Ammonium Sulphate
+42.41,56.39,16.35,Black,sugarcane,N,Potash
+34.37,46.75,40.42,Black,rice,K,Compost
+32.21,68.17,86.97,Clay,millet,P,Urea
+35.85,20.98,88.3,Clay,groundnut,N,DAP
+27.31,64.39,37.92,Black,barley,N,Ammonium Sulphate
+14.97,65.15,86.81,Sandy,sugarcane,N,DAP
+40.11,27.64,52.53,Red,cotton,K,Urea
+42.41,64.67,37.98,Clay,sugarcane,K,Potash
+41.04,23.11,39.44,Black,cotton,K,Ammonium Sulphate
+18.81,29.29,47.54,Loamy,groundnut,P,Potash
+18.35,85.74,36.21,Sandy,maize,P,Super Phosphate
+26.55,14.87,21.97,Sandy,groundnut,P,DAP
+37.34,19.69,28.51,Red,groundnut,P,Compost
+40.29,33.6,16.67,Black,cotton,P,Compost
+35.08,71.07,42.53,Clay,maize,K,Compost
+17.22,47.1,53.96,Sandy,sugarcane,N,Urea
+38.68,12.81,10.42,Sandy,sugarcane,N,Urea
+31.86,17.64,42.93,Red,maize,P,Ammonium Sulphate
+21.67,71.92,19.77,Black,barley,N,Potash
+35.34,62.1,58.97,Loamy,millet,N,Compost
+37.49,35.04,14.34,Red,sugarcane,N,Potash
+13.81,49.24,59.82,Black,barley,N,Potash
+31.87,77.56,76.44,Black,wheat,P,Compost
+23.16,19.47,81.82,Black,rice,N,Urea
+38.78,68.81,68.12,Black,groundnut,P,Super Phosphate
+31.17,86.67,61.82,Red,rice,K,Urea
+38.51,53.33,37.33,Black,barley,K,Ammonium Sulphate
+24.88,74.81,28.62,Sandy,maize,P,Ammonium Sulphate
+35.74,50.68,72.62,Sandy,groundnut,P,Super Phosphate
+24.52,69.87,33.75,Loamy,groundnut,P,Urea
+10.28,32.51,42.13,Clay,barley,K,Compost
+14.67,58.88,80.84,Black,maize,K,Super Phosphate
+11.77,51.39,43.12,Black,cotton,P,Urea
+13.28,77.46,82.73,Loamy,millet,N,Compost
+30.68,11.88,23.47,Black,cotton,K,Ammonium Sulphate
+18.63,33.69,18.18,Loamy,wheat,P,Urea
+17.48,28.89,85.99,Loamy,groundnut,P,Potash
+23.6,47.67,37.45,Black,barley,P,Compost
+37.5,15.2,17.09,Clay,wheat,K,Compost
+10.5,51.86,31.31,Clay,wheat,P,Ammonium Sulphate
+11.89,74.13,27.17,Loamy,rice,P,Potash
+25.53,42.35,59.28,Sandy,sugarcane,N,Ammonium Sulphate
+32.91,57.91,10.8,Sandy,millet,K,DAP
+28.59,55.49,22.27,Black,wheat,N,Ammonium Sulphate
+44.12,12.57,12.71,Clay,sugarcane,K,Urea
+34.86,59.38,37.29,Red,barley,N,Compost
+14.45,46.39,24.05,Loamy,wheat,P,Compost
+29.73,41.2,13.66,Clay,sugarcane,K,Potash
+36.23,86.46,18.12,Loamy,cotton,K,Compost
+10.62,66.43,45.97,Loamy,millet,K,DAP
+15.84,60.45,34.26,Clay,cotton,P,DAP
+43.71,85.8,66.8,Clay,sugarcane,P,Potash
+24.31,12.09,69.37,Clay,groundnut,K,Ammonium Sulphate
+24.19,30.37,75.67,Clay,cotton,K,Urea
+36.97,31.9,78.42,Black,maize,N,DAP
+12.17,88.67,22.62,Red,sugarcane,K,Urea
+15.74,31.79,82.71,Loamy,millet,N,Ammonium Sulphate
+12.29,85.46,75.62,Sandy,rice,P,Super Phosphate
+44.91,32.17,54.06,Red,barley,K,Ammonium Sulphate
+28.82,23.1,40.57,Black,cotton,K,Super Phosphate
+30.41,52.03,17.01,Red,barley,P,Urea
+18.69,18.07,71.03,Black,rice,N,Ammonium Sulphate
+38.3,29.23,50.17,Clay,barley,K,Compost
+43.76,27.32,45.79,Clay,cotton,K,Urea
+18.23,26.64,83.0,Clay,cotton,N,Super Phosphate
+36.62,83.91,25.29,Black,sugarcane,N,Ammonium Sulphate
+23.16,61.58,46.31,Loamy,cotton,N,Potash
+31.06,81.3,73.31,Black,groundnut,K,Super Phosphate
+38.11,33.9,16.56,Sandy,wheat,N,Ammonium Sulphate
+28.18,30.28,88.68,Sandy,groundnut,P,Potash
+38.06,52.01,80.69,Red,maize,N,Compost
+30.62,32.09,76.38,Clay,wheat,K,Compost
+24.88,62.82,29.89,Loamy,wheat,P,Ammonium Sulphate
+19.7,38.31,19.74,Red,barley,K,DAP
+41.08,58.94,75.53,Black,maize,P,Super Phosphate
+13.15,57.37,35.36,Red,rice,K,Super Phosphate
+10.76,38.03,78.09,Red,sugarcane,N,Compost
+23.41,11.09,28.89,Black,cotton,P,Potash
+11.43,87.4,71.36,Red,millet,K,DAP
+17.45,57.44,79.27,Sandy,barley,N,Ammonium Sulphate
+24.32,12.73,33.83,Loamy,rice,N,Compost
+12.02,88.62,84.67,Clay,sugarcane,K,DAP
+18.32,39.05,56.94,Black,sugarcane,P,Urea
+27.55,50.95,44.9,Sandy,rice,K,DAP
+37.28,26.85,29.7,Red,millet,K,Compost
+29.91,64.98,49.93,Black,barley,P,Super Phosphate
+40.46,45.39,11.33,Clay,rice,N,Urea
+36.65,83.05,11.02,Loamy,cotton,P,Compost
+22.69,16.22,30.39,Red,cotton,N,Compost
+32.51,56.55,43.6,Clay,cotton,K,Compost
+13.25,46.17,63.55,Black,sugarcane,P,Urea
+39.45,27.28,50.69,Black,groundnut,P,Compost
+38.34,60.37,68.35,Loamy,barley,K,Compost
+41.73,51.56,15.7,Red,groundnut,N,Urea
+18.59,89.7,57.2,Black,groundnut,N,Ammonium Sulphate
+41.8,79.49,57.24,Black,sugarcane,N,Compost
+19.04,29.11,43.8,Clay,sugarcane,K,Potash
+36.43,70.53,27.71,Red,sugarcane,P,Compost
+36.36,42.03,86.47,Loamy,barley,K,Ammonium Sulphate
+44.09,60.5,57.25,Black,cotton,K,Super Phosphate
+27.37,61.57,33.99,Red,sugarcane,N,Ammonium Sulphate
+35.1,18.93,69.85,Black,sugarcane,K,Super Phosphate
+39.72,84.2,45.32,Red,sugarcane,P,Super Phosphate
+40.37,38.4,40.83,Black,barley,K,Potash
+13.71,45.63,52.63,Black,rice,K,Super Phosphate
+25.87,60.68,79.57,Loamy,barley,N,DAP
+42.46,80.73,16.29,Clay,barley,N,Potash
+15.63,49.97,29.84,Sandy,cotton,N,DAP
+14.03,20.15,19.42,Loamy,maize,N,Urea
+29.95,64.96,64.11,Clay,rice,K,Super Phosphate
+10.85,81.32,66.74,Sandy,groundnut,N,Super Phosphate
+19.47,33.81,17.96,Black,maize,K,Potash
+23.46,64.47,72.31,Sandy,barley,N,Super Phosphate
+20.08,11.28,40.43,Black,groundnut,P,DAP
+24.02,76.92,22.25,Loamy,groundnut,K,DAP
+20.13,81.24,25.2,Loamy,cotton,K,Compost
+13.1,20.05,63.93,Sandy,wheat,P,Ammonium Sulphate
+20.16,39.35,54.2,Red,rice,N,Ammonium Sulphate
+11.33,55.76,81.97,Black,rice,N,Compost
+34.0,24.91,24.8,Red,barley,P,Super Phosphate
+29.7,25.42,61.79,Sandy,groundnut,K,Potash
+42.27,13.3,57.4,Clay,maize,N,Ammonium Sulphate
+31.11,49.08,60.04,Loamy,wheat,P,Urea
+34.67,47.5,81.77,Loamy,wheat,P,Urea
+10.85,34.06,54.08,Sandy,groundnut,K,Ammonium Sulphate
+29.87,52.23,18.44,Sandy,cotton,N,Ammonium Sulphate
+29.78,74.82,19.31,Sandy,wheat,P,Urea
+43.54,24.28,82.57,Clay,rice,K,Urea
+16.03,84.2,72.83,Red,maize,K,DAP
+36.59,47.17,76.8,Black,wheat,K,Compost
+44.07,28.09,55.5,Clay,wheat,N,Potash
+37.12,75.48,23.25,Clay,sugarcane,P,DAP
+41.63,45.29,32.07,Loamy,groundnut,N,DAP
+37.93,18.82,33.47,Clay,groundnut,N,Urea
+12.1,33.15,41.19,Black,rice,K,Ammonium Sulphate
+10.47,35.21,67.35,Red,cotton,P,Ammonium Sulphate
+26.11,75.57,61.62,Black,cotton,P,Ammonium Sulphate
+13.88,70.57,71.37,Loamy,wheat,N,Potash
+41.62,71.76,53.12,Red,barley,P,Urea
+31.56,19.1,83.2,Loamy,cotton,K,Potash
+26.84,18.19,45.76,Sandy,millet,K,DAP
+11.23,14.51,30.51,Red,cotton,N,Potash
+16.68,51.86,44.98,Black,millet,P,Compost
+44.2,64.96,46.08,Loamy,wheat,P,Ammonium Sulphate
+30.51,81.33,38.49,Clay,groundnut,K,Compost
+13.68,84.4,11.56,Loamy,rice,K,Potash
+30.97,12.6,32.74,Clay,maize,N,Super Phosphate
+36.91,49.16,60.97,Sandy,groundnut,K,Ammonium Sulphate
+35.24,18.26,15.99,Loamy,maize,K,Compost
+10.33,66.62,41.53,Sandy,wheat,P,Urea
+29.1,63.27,64.56,Loamy,sugarcane,P,Super Phosphate
+28.24,52.59,66.57,Loamy,sugarcane,K,DAP
+13.4,37.46,30.69,Black,millet,P,Ammonium Sulphate
+44.35,10.83,49.85,Clay,sugarcane,K,DAP
+34.59,30.21,12.01,Clay,sugarcane,P,Compost
+12.61,61.99,38.65,Red,barley,N,Urea
+23.01,17.55,54.84,Clay,cotton,K,Super Phosphate
+43.03,50.02,27.89,Clay,millet,P,Compost
+42.88,73.22,79.63,Loamy,cotton,K,Super Phosphate
+42.02,29.16,39.12,Sandy,maize,P,DAP
+41.85,48.63,20.35,Black,rice,N,Urea
+18.22,28.56,63.79,Red,cotton,N,Compost
+10.39,58.6,74.8,Sandy,maize,P,DAP
+44.87,14.91,73.12,Black,sugarcane,P,Super Phosphate
+35.18,84.11,88.49,Black,barley,N,Ammonium Sulphate
+12.09,26.16,69.25,Sandy,groundnut,N,Super Phosphate
+22.72,83.48,77.55,Clay,cotton,N,Ammonium Sulphate
+20.7,41.54,79.45,Sandy,rice,K,Compost
+33.07,66.97,51.8,Clay,rice,N,DAP
+23.42,71.79,39.32,Sandy,wheat,N,Potash
+22.76,44.75,64.05,Clay,sugarcane,P,Potash
+43.45,17.72,49.21,Loamy,cotton,P,Potash
+25.84,43.96,20.38,Sandy,rice,N,Compost
+19.04,67.62,87.17,Loamy,maize,P,Urea
+44.13,48.3,85.3,Black,maize,K,Ammonium Sulphate
+29.13,57.49,57.38,Black,millet,K,Ammonium Sulphate
+39.81,45.95,16.68,Clay,wheat,P,Potash
+34.72,24.16,20.35,Red,groundnut,P,Ammonium Sulphate
+11.67,51.69,27.61,Black,maize,N,Urea
+27.25,32.61,69.37,Black,cotton,N,Compost
+26.41,14.62,61.03,Sandy,groundnut,N,Urea
+21.24,84.31,54.07,Loamy,maize,K,Potash
+29.21,73.66,77.28,Clay,sugarcane,K,Potash
+13.4,40.28,15.05,Clay,rice,P,Super Phosphate
+12.26,63.92,47.25,Red,millet,K,Ammonium Sulphate
+20.57,86.78,49.66,Black,maize,K,Potash
+17.1,26.59,76.15,Red,maize,P,Potash
+44.9,80.72,42.57,Clay,millet,N,Ammonium Sulphate
+40.99,83.94,11.87,Black,cotton,N,Potash
+29.93,70.09,38.2,Black,barley,N,Urea
+10.88,59.89,76.64,Black,maize,K,Compost
+37.23,31.86,47.22,Black,maize,K,Super Phosphate
+17.14,44.68,86.02,Clay,groundnut,P,Compost
+21.95,89.38,40.12,Sandy,rice,P,DAP
+44.81,79.23,51.97,Black,barley,P,Ammonium Sulphate
+39.56,30.36,60.32,Red,cotton,N,Super Phosphate
+24.36,74.48,25.67,Black,groundnut,N,Urea
+14.53,45.67,45.94,Red,sugarcane,K,Potash
+31.71,53.07,26.09,Black,cotton,K,Compost
+39.68,58.26,42.45,Red,cotton,N,Compost
+38.57,61.47,34.7,Loamy,rice,P,Urea
+23.12,59.5,32.93,Clay,rice,P,Urea
+14.11,13.13,73.32,Black,maize,K,DAP
+33.67,17.31,37.21,Red,cotton,K,Ammonium Sulphate
+42.57,49.18,60.26,Clay,barley,P,DAP
+38.84,24.83,13.33,Loamy,groundnut,K,Ammonium Sulphate
+41.13,74.23,11.37,Red,cotton,K,Potash
+44.74,89.52,40.32,Clay,groundnut,P,Potash
+20.1,52.76,47.91,Red,barley,P,Ammonium Sulphate
+36.1,86.48,39.23,Clay,groundnut,P,Ammonium Sulphate
+13.87,37.78,42.62,Clay,rice,N,Urea
+42.62,50.94,62.36,Sandy,wheat,N,DAP
+19.64,59.99,25.43,Clay,sugarcane,P,Ammonium Sulphate
+13.37,59.49,30.34,Red,barley,K,Ammonium Sulphate
+27.27,54.54,78.54,Clay,wheat,K,Compost
+30.49,80.64,89.09,Red,barley,K,Ammonium Sulphate
+42.17,75.9,34.68,Sandy,wheat,P,Urea
+33.59,29.71,33.31,Clay,rice,P,Super Phosphate
+34.7,13.47,11.47,Sandy,maize,K,Compost
+36.08,27.3,64.91,Black,maize,K,DAP
+39.15,42.46,11.13,Loamy,wheat,N,Ammonium Sulphate
+23.6,12.27,47.9,Red,wheat,P,Compost
+20.16,25.07,38.12,Black,rice,P,DAP
+20.61,61.98,74.57,Loamy,wheat,P,Potash
+25.69,67.47,63.95,Sandy,groundnut,P,Potash
+31.59,73.79,14.2,Black,maize,N,Compost
+19.53,43.59,70.68,Clay,maize,P,Super Phosphate
+21.74,47.3,32.38,Clay,wheat,K,Urea
+29.95,12.4,21.05,Black,rice,K,Urea
+23.25,74.68,72.69,Sandy,millet,K,DAP
+37.1,26.42,87.38,Red,barley,K,Urea
+18.22,56.72,36.82,Black,cotton,N,Potash
+33.28,80.01,39.12,Sandy,barley,P,Potash
+35.11,57.0,50.63,Sandy,cotton,P,Super Phosphate
+30.15,69.41,80.79,Loamy,sugarcane,K,Ammonium Sulphate
+16.14,67.52,50.84,Red,rice,K,Urea
+44.66,68.06,21.48,Red,barley,N,Urea
+43.14,72.64,86.71,Sandy,groundnut,P,Ammonium Sulphate
+28.3,10.01,47.4,Red,maize,K,Urea
+31.38,29.77,59.48,Clay,millet,N,Ammonium Sulphate
+31.26,89.9,39.21,Loamy,barley,P,DAP
+12.63,10.35,72.74,Red,sugarcane,P,Super Phosphate
+35.96,60.13,76.65,Black,cotton,N,Super Phosphate
+12.54,34.71,11.48,Black,rice,N,Urea
+32.91,81.67,49.16,Clay,wheat,N,Urea
+32.92,61.96,16.51,Sandy,barley,P,Urea
+41.09,56.48,70.73,Clay,cotton,P,Potash
+25.23,74.92,46.34,Sandy,barley,P,Ammonium Sulphate
+42.62,10.64,73.48,Clay,millet,N,DAP
+11.73,78.55,19.99,Red,cotton,N,DAP
+15.02,19.99,65.49,Red,barley,K,Super Phosphate
+43.19,35.51,57.77,Black,sugarcane,P,Potash
+17.13,24.28,40.42,Sandy,barley,N,Compost
+31.64,11.61,73.95,Black,millet,N,Urea
+16.11,47.62,28.01,Sandy,barley,P,Potash
+33.59,30.45,72.19,Loamy,maize,N,Potash
+10.06,48.22,22.89,Clay,sugarcane,N,Urea
+37.16,26.58,35.93,Clay,sugarcane,K,Potash
+41.96,26.88,69.43,Clay,sugarcane,K,Compost
+32.08,29.3,35.15,Black,rice,P,Super Phosphate
+33.89,28.5,68.78,Clay,wheat,N,Urea
+38.34,58.07,42.98,Black,groundnut,K,Potash
+21.59,80.58,31.56,Loamy,maize,N,Super Phosphate
+38.97,69.39,57.65,Sandy,groundnut,P,Ammonium Sulphate
+44.45,76.44,32.18,Red,sugarcane,N,Super Phosphate
+36.73,11.52,20.76,Loamy,cotton,N,Ammonium Sulphate
+43.36,49.19,23.06,Loamy,wheat,K,Super Phosphate
+41.93,55.18,26.48,Red,rice,N,DAP
+27.0,19.49,44.87,Black,barley,K,DAP
+25.18,75.87,26.05,Red,sugarcane,N,Potash
+39.22,61.49,77.97,Clay,groundnut,K,Potash
+40.08,24.84,36.9,Loamy,groundnut,K,DAP
+43.11,26.62,83.96,Sandy,rice,P,Ammonium Sulphate
+38.21,54.81,77.41,Red,wheat,P,Urea
+17.49,27.33,46.18,Red,maize,N,Ammonium Sulphate
+32.54,60.63,54.39,Red,maize,P,Potash
+38.6,18.78,24.84,Loamy,barley,P,Compost
+20.77,58.53,15.64,Sandy,cotton,K,Compost
+18.22,16.67,65.07,Sandy,millet,K,DAP
+11.38,71.54,60.44,Sandy,wheat,N,Super Phosphate
+24.17,76.76,72.7,Clay,wheat,N,Super Phosphate
+30.13,72.77,28.13,Black,maize,N,Potash
+40.21,10.94,65.72,Loamy,barley,P,Ammonium Sulphate
+31.3,71.82,67.1,Black,maize,N,Urea
+43.31,34.65,53.41,Red,sugarcane,N,Compost
+25.8,88.62,46.59,Clay,rice,K,Ammonium Sulphate
+35.4,23.68,81.62,Red,rice,P,Super Phosphate
+43.38,39.63,44.79,Loamy,groundnut,P,Compost
+32.99,88.46,67.61,Red,millet,N,Compost
+19.24,89.46,30.02,Black,millet,P,Potash
+36.8,84.94,71.34,Sandy,wheat,N,DAP
+23.42,53.25,29.07,Red,maize,N,Super Phosphate
+17.12,16.07,49.65,Loamy,cotton,P,Ammonium Sulphate
+23.42,37.0,40.55,Sandy,groundnut,K,Urea
+34.36,85.25,15.8,Sandy,cotton,K,Ammonium Sulphate
+35.24,44.71,85.7,Red,maize,N,Ammonium Sulphate
+42.88,34.92,37.23,Loamy,barley,N,DAP
+40.06,42.66,67.75,Clay,groundnut,P,Super Phosphate
+21.49,30.3,31.08,Black,maize,K,Potash
+15.8,35.01,73.76,Black,rice,N,Compost
+38.85,87.42,31.42,Black,sugarcane,K,Urea
+35.07,75.08,68.6,Sandy,barley,P,Ammonium Sulphate
+35.37,20.86,47.77,Sandy,cotton,P,Compost
+18.93,28.9,71.02,Black,maize,P,Urea
+39.21,11.84,56.04,Loamy,rice,N,Super Phosphate
+13.96,50.8,10.67,Loamy,rice,P,Super Phosphate
+30.12,46.74,35.1,Sandy,barley,P,Super Phosphate
+43.1,13.14,76.56,Black,groundnut,N,Potash
+22.1,25.81,34.7,Sandy,barley,N,Urea
+36.73,68.32,18.24,Loamy,groundnut,K,DAP
+36.83,19.5,75.05,Clay,maize,P,Ammonium Sulphate
+10.78,87.21,76.25,Black,maize,K,Urea
+31.8,60.54,37.53,Loamy,barley,N,DAP
+20.24,22.11,19.48,Black,groundnut,P,Ammonium Sulphate
+21.23,89.82,59.49,Clay,maize,K,Super Phosphate
+36.91,88.71,83.96,Red,sugarcane,K,Urea
+26.74,55.87,15.19,Sandy,rice,N,Potash
+10.42,51.67,76.27,Clay,cotton,P,Ammonium Sulphate
+37.36,61.3,84.22,Sandy,rice,P,Urea
+19.56,10.87,84.59,Clay,millet,N,Compost
+14.48,19.19,40.48,Clay,wheat,N,DAP
+19.86,41.72,44.98,Black,maize,P,Ammonium Sulphate
+40.99,61.83,72.16,Red,millet,N,Compost
+13.15,46.6,54.98,Loamy,groundnut,N,Compost
+26.11,49.51,28.22,Clay,maize,P,Super Phosphate
+39.41,44.35,31.07,Red,sugarcane,N,Compost
+19.17,81.11,14.8,Sandy,cotton,K,Compost
+13.96,47.36,36.08,Clay,rice,N,DAP
+19.83,14.86,41.75,Sandy,rice,P,Super Phosphate
+16.62,22.5,36.2,Clay,cotton,P,Super Phosphate
+26.1,43.72,81.78,Red,maize,K,Compost
+31.83,22.18,18.9,Red,barley,K,Ammonium Sulphate
+21.71,55.84,35.96,Black,wheat,K,Super Phosphate
+18.26,84.8,54.74,Loamy,rice,K,Compost
+30.59,37.52,23.88,Red,barley,P,Ammonium Sulphate
+26.81,60.18,10.38,Sandy,cotton,N,Compost
+25.1,83.34,79.85,Clay,maize,K,Compost
+27.24,28.59,29.22,Clay,groundnut,K,Ammonium Sulphate
+27.36,84.84,25.6,Clay,maize,K,Compost
+30.76,31.2,50.2,Red,groundnut,K,Compost
+37.54,57.37,31.59,Black,barley,P,Compost
+13.16,65.15,57.9,Red,sugarcane,P,Urea
+28.73,35.45,68.77,Loamy,maize,K,DAP
+26.27,73.72,33.32,Clay,barley,N,Super Phosphate
+24.57,26.05,85.43,Clay,maize,P,Ammonium Sulphate
+21.94,39.52,39.63,Red,groundnut,K,Compost
+15.11,86.73,27.29,Clay,millet,N,Super Phosphate
+18.03,11.13,72.08,Black,wheat,P,DAP
+32.45,40.62,15.9,Sandy,maize,N,Super Phosphate
+19.65,36.61,58.93,Black,sugarcane,N,Compost
+31.92,87.14,25.92,Black,groundnut,K,Super Phosphate
+35.08,35.67,26.05,Black,sugarcane,K,DAP
+40.85,81.93,26.88,Loamy,cotton,K,Urea
+28.85,88.61,69.04,Red,millet,K,DAP
+42.29,63.09,41.7,Black,barley,N,DAP
+15.77,12.24,15.63,Clay,groundnut,K,Super Phosphate
+29.98,64.47,40.5,Red,wheat,K,Super Phosphate
+12.13,19.58,55.67,Sandy,maize,P,Potash
+19.38,84.09,51.06,Clay,barley,P,DAP
+34.16,82.7,60.75,Black,millet,N,Ammonium Sulphate
+15.45,60.65,51.29,Clay,millet,N,Potash
+28.7,11.1,35.73,Red,maize,N,Urea
+36.8,36.29,16.29,Black,rice,P,Urea
+34.62,61.18,22.35,Black,groundnut,N,Urea
+29.27,44.36,25.69,Clay,cotton,K,Urea
+41.92,45.99,12.63,Sandy,maize,K,DAP
+42.11,11.51,43.1,Sandy,barley,K,Urea
+13.0,22.79,82.66,Clay,barley,N,Super Phosphate
+36.55,56.91,82.11,Sandy,sugarcane,P,Ammonium Sulphate
+27.91,53.63,19.53,Sandy,maize,K,Compost
+24.29,30.81,31.84,Clay,rice,K,Compost
+29.18,75.11,52.08,Black,cotton,N,Urea
+42.82,30.15,25.42,Black,barley,P,Urea
+41.38,45.28,71.02,Loamy,sugarcane,K,DAP
+33.73,59.62,34.3,Sandy,maize,N,Urea
+33.75,81.59,33.54,Clay,sugarcane,K,Compost
+27.56,29.79,70.5,Clay,cotton,P,Urea
+39.93,26.22,11.16,Black,sugarcane,N,Ammonium Sulphate
+28.47,60.93,46.92,Clay,sugarcane,K,Urea
+22.16,70.41,61.99,Red,maize,P,Potash
+25.67,22.41,82.04,Loamy,rice,P,Urea
+20.97,60.6,54.12,Clay,groundnut,P,Super Phosphate
+21.74,18.73,49.82,Red,wheat,K,Ammonium Sulphate
+41.95,49.35,73.72,Loamy,rice,N,Compost
+44.94,23.98,46.7,Loamy,millet,K,Super Phosphate
+27.18,69.42,48.73,Loamy,cotton,P,DAP
+13.24,86.98,34.87,Loamy,wheat,P,DAP
+14.9,77.15,70.99,Red,cotton,K,DAP
+10.66,68.61,76.64,Sandy,cotton,P,Compost
+31.09,76.46,79.7,Black,maize,K,DAP
+42.37,12.41,22.49,Clay,cotton,K,Ammonium Sulphate
+16.9,69.05,26.62,Sandy,wheat,P,DAP
+38.45,67.55,61.27,Black,millet,K,Compost
+26.99,15.9,18.67,Loamy,groundnut,P,Ammonium Sulphate
+22.84,81.71,27.68,Loamy,millet,N,Ammonium Sulphate
+38.07,76.6,26.29,Black,maize,N,DAP
+37.32,22.26,22.69,Black,millet,N,Super Phosphate
+27.01,48.84,16.52,Sandy,barley,K,Compost
+28.42,41.31,53.94,Loamy,cotton,P,Compost
+26.74,89.74,12.06,Loamy,groundnut,K,Urea
+24.46,19.86,75.47,Black,barley,K,DAP
+34.23,57.03,15.39,Black,millet,P,Compost
+35.06,66.32,52.47,Red,rice,K,Potash
+39.48,25.5,23.99,Black,barley,P,Compost
+29.95,67.18,68.48,Sandy,groundnut,P,Super Phosphate
+23.66,56.62,26.03,Loamy,maize,N,Compost
+17.59,88.89,76.42,Black,maize,N,Urea
+21.87,52.44,73.1,Black,maize,N,Urea
+23.92,68.1,40.51,Clay,barley,N,Compost
+19.6,23.76,37.05,Loamy,millet,K,Ammonium Sulphate
+21.35,36.69,87.74,Clay,rice,K,Potash
+16.31,51.65,53.94,Black,groundnut,N,DAP
+21.03,64.92,84.7,Red,rice,K,Ammonium Sulphate
+37.92,60.02,35.53,Sandy,sugarcane,K,Potash
+20.68,82.06,78.8,Loamy,rice,N,Ammonium Sulphate
+36.04,13.03,28.81,Loamy,groundnut,N,Ammonium Sulphate
+17.32,55.51,46.01,Loamy,groundnut,N,Compost
+16.46,75.11,59.03,Sandy,wheat,P,DAP
+12.69,55.8,66.65,Black,sugarcane,N,Compost
+44.78,25.81,76.03,Sandy,sugarcane,K,DAP
+43.62,72.29,57.23,Sandy,maize,N,Compost
+15.33,73.02,65.95,Black,rice,N,Urea
+20.39,81.27,14.6,Sandy,sugarcane,N,Ammonium Sulphate
+32.05,24.61,64.72,Sandy,cotton,K,Compost
+13.07,81.36,69.28,Sandy,wheat,N,Urea
+34.47,85.29,23.56,Clay,wheat,P,Ammonium Sulphate
+28.5,40.92,69.97,Clay,barley,P,Urea
+32.27,60.26,89.73,Clay,barley,P,Super Phosphate
+28.59,64.86,37.54,Clay,millet,N,Potash
+38.6,76.42,18.26,Clay,wheat,P,DAP
+34.02,78.45,11.56,Black,sugarcane,N,Super Phosphate
+12.25,29.95,43.89,Sandy,wheat,N,DAP
+31.41,71.31,59.03,Clay,barley,N,Urea
+27.33,36.34,67.68,Sandy,cotton,N,DAP
+40.37,81.9,10.94,Loamy,maize,N,DAP
+15.28,28.76,69.08,Clay,sugarcane,K,Compost
+22.3,71.62,61.71,Clay,cotton,P,DAP
+42.09,10.59,41.01,Clay,wheat,K,Urea
+13.88,83.98,58.74,Sandy,sugarcane,P,Ammonium Sulphate
+27.42,77.97,51.07,Black,rice,N,Potash
+23.77,41.61,86.44,Black,cotton,N,Ammonium Sulphate
+35.17,88.84,26.97,Sandy,groundnut,N,DAP
+17.6,10.2,84.13,Black,groundnut,N,Compost
+33.23,87.54,22.08,Black,rice,P,Ammonium Sulphate
+42.35,43.24,23.34,Clay,wheat,P,Potash
+11.86,13.25,78.24,Black,maize,N,Urea
+22.08,71.68,61.33,Red,wheat,K,Urea
+28.94,33.63,48.47,Red,rice,P,Potash
+15.99,62.28,61.24,Loamy,millet,P,DAP
+11.35,35.41,85.1,Sandy,sugarcane,K,Ammonium Sulphate
+18.1,47.01,38.05,Loamy,wheat,P,Potash
+28.13,40.69,54.71,Black,barley,K,Compost
+17.82,29.19,74.3,Clay,rice,P,Urea
+24.08,87.01,47.6,Loamy,wheat,N,DAP
+19.67,12.95,57.54,Loamy,cotton,P,Super Phosphate
+33.3,48.13,23.57,Red,sugarcane,N,Potash
+14.19,27.72,14.78,Red,rice,P,Ammonium Sulphate
+30.25,44.67,69.76,Clay,rice,P,Compost
+23.77,63.29,65.41,Black,millet,N,Ammonium Sulphate
+14.24,72.25,81.31,Sandy,millet,N,Ammonium Sulphate
+31.71,78.44,64.24,Loamy,barley,P,Ammonium Sulphate
+24.24,15.32,31.03,Black,groundnut,P,Compost
+37.08,39.24,11.28,Red,cotton,N,Ammonium Sulphate
+26.67,46.84,30.17,Clay,cotton,P,Urea
+19.6,67.07,58.26,Red,millet,N,Ammonium Sulphate
+12.06,78.89,87.84,Red,groundnut,K,Urea
+42.74,69.26,43.89,Loamy,maize,N,DAP
+43.09,54.13,37.08,Black,rice,P,Compost
+29.46,58.42,21.92,Black,cotton,K,DAP
+44.57,62.75,44.07,Sandy,groundnut,N,DAP
+25.76,76.68,15.79,Black,maize,P,Urea
+21.46,37.24,73.15,Sandy,rice,K,Ammonium Sulphate
+20.88,82.52,43.04,Sandy,sugarcane,P,Urea
+33.01,40.07,26.36,Clay,rice,P,Ammonium Sulphate
+37.92,60.09,62.14,Clay,groundnut,K,Super Phosphate
+20.22,44.74,36.28,Clay,millet,P,Compost
+36.98,66.92,64.43,Black,maize,P,Potash
+24.97,57.38,72.1,Red,cotton,K,Compost
+31.34,43.26,51.5,Sandy,millet,N,Ammonium Sulphate
+29.73,52.97,80.5,Loamy,rice,N,Super Phosphate
+44.42,82.12,88.84,Clay,millet,P,Ammonium Sulphate
+28.73,76.08,23.67,Red,sugarcane,P,Potash
+43.99,42.43,45.22,Sandy,maize,P,Compost
+14.57,50.22,83.28,Clay,rice,P,DAP
+34.58,64.94,48.48,Red,groundnut,N,Ammonium Sulphate
+18.6,77.29,58.45,Sandy,groundnut,N,Super Phosphate
+37.0,88.82,44.48,Loamy,rice,P,Potash
+16.52,22.27,18.0,Sandy,maize,P,Potash
+24.77,22.53,63.32,Black,millet,K,Urea
+15.64,72.2,87.29,Black,groundnut,K,Compost
+30.41,71.16,71.63,Red,wheat,N,Urea
+20.39,60.64,77.7,Sandy,maize,P,Ammonium Sulphate
+19.77,86.67,67.03,Loamy,cotton,N,DAP
+15.38,61.36,83.67,Clay,groundnut,K,Super Phosphate
+38.92,68.62,35.82,Sandy,millet,P,DAP
+31.65,53.25,24.58,Sandy,maize,N,Ammonium Sulphate
+45.0,87.93,48.77,Black,millet,K,Ammonium Sulphate
+39.99,86.77,19.49,Loamy,millet,N,DAP
+31.54,33.11,16.28,Red,sugarcane,K,Super Phosphate
+36.37,50.84,21.44,Clay,millet,P,Compost
+21.14,52.12,88.49,Black,barley,N,Ammonium Sulphate
+13.17,80.84,42.21,Loamy,sugarcane,P,Compost
+29.57,14.53,76.26,Black,sugarcane,K,DAP
+20.07,78.24,41.12,Clay,maize,P,Compost
+37.86,26.34,14.67,Clay,cotton,K,Compost
+23.82,21.51,34.17,Clay,sugarcane,N,DAP
+21.3,35.92,48.22,Red,maize,N,Ammonium Sulphate
+33.43,84.89,75.91,Black,rice,N,Compost
+26.37,21.05,86.69,Black,barley,P,Super Phosphate
+43.9,61.86,66.78,Clay,barley,N,Potash
+14.04,84.41,77.61,Clay,groundnut,N,DAP
+31.47,53.93,26.06,Red,barley,N,Urea
+17.78,82.35,25.85,Clay,cotton,K,DAP
+33.98,51.44,12.33,Black,maize,P,Super Phosphate
+18.3,63.92,49.86,Red,cotton,K,Compost
+39.97,38.96,44.88,Loamy,sugarcane,K,Urea
+35.82,28.45,77.85,Clay,millet,K,Ammonium Sulphate
+15.26,18.68,16.12,Clay,millet,N,DAP
+14.01,28.8,27.22,Clay,rice,N,Super Phosphate
+24.89,77.59,26.29,Clay,millet,K,Compost
+22.19,19.13,25.51,Red,sugarcane,K,Potash
+10.62,80.48,26.61,Loamy,wheat,P,Ammonium Sulphate
+29.42,84.52,58.77,Black,millet,K,DAP
+26.6,47.35,25.59,Loamy,maize,N,Compost
+16.18,28.88,46.41,Red,groundnut,P,Compost
+11.25,25.58,81.09,Red,wheat,P,Compost
+13.11,62.55,38.53,Black,rice,P,Compost
+41.83,85.22,42.38,Loamy,sugarcane,K,Potash
+13.43,14.93,77.25,Sandy,cotton,P,Compost
+40.65,24.03,69.93,Sandy,barley,N,DAP
+12.36,62.16,17.54,Black,wheat,P,Urea
+30.48,78.08,43.42,Red,cotton,P,Ammonium Sulphate
+22.87,21.23,85.99,Sandy,maize,N,DAP
+13.92,31.07,74.22,Sandy,millet,K,Super Phosphate
+36.81,12.4,64.21,Loamy,maize,P,Urea
+19.53,33.29,28.93,Red,wheat,N,Compost
+35.75,75.01,53.21,Black,cotton,N,Ammonium Sulphate
+34.01,28.32,77.47,Clay,rice,K,Compost
+36.8,22.1,15.94,Red,millet,K,Urea
+36.6,52.61,56.84,Loamy,sugarcane,N,Compost
+36.78,46.22,44.57,Red,cotton,N,DAP
+25.48,44.1,69.13,Black,millet,P,Ammonium Sulphate
+12.13,75.18,86.18,Clay,rice,P,Ammonium Sulphate
+11.97,37.25,76.98,Loamy,millet,N,DAP
+38.05,22.86,33.04,Sandy,wheat,N,Super Phosphate
+19.21,52.88,81.04,Loamy,wheat,N,Compost
+37.4,82.19,20.46,Sandy,groundnut,K,DAP
+27.74,25.44,61.63,Black,maize,N,Potash
+41.58,30.49,13.79,Clay,sugarcane,P,Ammonium Sulphate
+16.45,66.82,37.81,Loamy,wheat,N,Ammonium Sulphate
+19.87,40.87,57.12,Black,wheat,N,Ammonium Sulphate
+12.31,38.37,28.05,Loamy,maize,P,Compost
+40.7,45.34,21.62,Red,wheat,K,DAP
+24.07,42.38,11.75,Black,maize,K,DAP
+28.5,84.81,56.77,Loamy,groundnut,P,Super Phosphate
+42.48,61.42,55.71,Loamy,rice,K,Urea
+29.23,21.31,63.52,Clay,millet,K,DAP
+30.59,31.13,79.66,Sandy,rice,P,Compost
+15.24,32.24,20.49,Sandy,cotton,P,Ammonium Sulphate
+16.08,73.59,46.63,Red,barley,K,Super Phosphate
+40.77,24.09,26.8,Sandy,maize,K,Ammonium Sulphate
+11.58,78.63,87.37,Red,cotton,K,DAP
+43.38,48.03,15.23,Red,rice,N,Urea
+36.88,11.02,43.46,Black,maize,P,Ammonium Sulphate
+13.34,65.92,46.76,Sandy,wheat,K,Compost
+39.69,35.23,43.68,Loamy,millet,N,Urea
+13.75,68.86,68.45,Loamy,millet,K,Super Phosphate
+12.71,51.94,49.38,Sandy,barley,K,Ammonium Sulphate
+30.76,76.22,19.71,Black,wheat,K,Compost
+24.51,12.8,69.24,Clay,sugarcane,P,Urea
+17.11,38.12,86.55,Red,cotton,K,DAP
+23.88,29.23,50.09,Clay,cotton,P,DAP
+33.57,48.71,53.66,Black,rice,N,Compost
+11.94,34.29,35.37,Sandy,groundnut,N,Ammonium Sulphate
+35.69,56.0,80.74,Clay,sugarcane,P,DAP
+39.17,39.73,65.31,Clay,maize,N,Compost
+20.74,81.65,84.07,Loamy,rice,K,Super Phosphate
+10.8,26.56,36.04,Sandy,barley,P,Ammonium Sulphate
+40.8,73.9,64.49,Clay,wheat,N,Urea
+42.22,39.25,89.76,Clay,barley,N,Ammonium Sulphate
+10.63,49.05,47.37,Red,millet,K,Potash
+30.08,38.44,76.58,Loamy,millet,P,Urea
+42.05,20.89,19.06,Sandy,groundnut,N,Super Phosphate
+31.08,81.4,41.34,Black,sugarcane,N,Compost
+10.53,24.02,56.71,Sandy,cotton,N,Ammonium Sulphate
+16.72,14.91,25.7,Loamy,barley,P,Urea
+35.03,52.71,62.46,Red,cotton,N,DAP
+10.74,53.28,18.19,Sandy,rice,K,DAP
+10.71,34.85,19.46,Loamy,maize,K,DAP
+32.23,28.85,32.14,Sandy,maize,N,Ammonium Sulphate
+11.72,85.46,38.41,Red,cotton,N,Ammonium Sulphate
+18.29,61.51,35.9,Clay,rice,P,Ammonium Sulphate
+19.87,64.16,19.43,Black,millet,P,Potash
+18.91,57.71,89.82,Loamy,rice,N,Ammonium Sulphate
+25.08,53.05,88.48,Clay,groundnut,K,Ammonium Sulphate
+22.5,85.19,68.9,Clay,millet,K,DAP
+24.03,28.57,41.87,Sandy,sugarcane,P,Urea
+13.73,86.62,50.56,Clay,cotton,P,Super Phosphate
+12.35,43.73,63.29,Black,barley,K,Super Phosphate
+36.01,50.68,72.43,Loamy,millet,N,Urea
+32.03,71.96,14.98,Black,millet,P,Potash
+43.22,39.87,15.41,Clay,barley,N,Super Phosphate
+21.1,41.99,40.41,Sandy,rice,P,Potash
+37.79,23.64,20.99,Loamy,groundnut,K,Ammonium Sulphate
+26.89,24.41,15.38,Loamy,cotton,K,Potash
+11.56,39.19,66.12,Black,rice,K,Super Phosphate
+27.03,10.54,17.65,Black,wheat,P,Super Phosphate
+43.24,82.98,50.61,Loamy,sugarcane,K,Compost
+36.02,48.63,33.67,Loamy,maize,K,Urea
+14.8,23.2,43.87,Sandy,barley,P,Ammonium Sulphate
+40.92,24.31,76.69,Sandy,groundnut,N,Super Phosphate
+10.81,79.79,78.68,Black,maize,K,Compost
+13.84,40.45,17.46,Sandy,maize,N,Ammonium Sulphate
+15.84,43.96,50.35,Black,barley,N,Compost
+13.98,39.49,69.54,Clay,sugarcane,K,Compost
+28.57,16.78,71.47,Red,rice,N,Compost
+36.76,85.68,26.05,Red,barley,P,Compost
+12.23,77.57,33.3,Red,sugarcane,N,Super Phosphate
+44.12,26.84,58.04,Clay,rice,N,Urea
+16.94,49.28,48.36,Sandy,maize,K,Super Phosphate
+34.76,66.47,64.49,Sandy,wheat,N,Ammonium Sulphate
+21.27,49.89,45.25,Loamy,wheat,N,Super Phosphate
+30.07,25.73,82.36,Sandy,barley,N,Potash
+15.44,52.75,23.82,Red,rice,N,DAP
+43.94,76.5,68.58,Red,sugarcane,K,Urea
+30.15,17.84,84.42,Clay,cotton,K,Compost
+38.39,68.73,42.44,Clay,maize,N,Compost
+28.57,70.41,64.76,Clay,groundnut,N,Compost
+29.0,84.04,71.38,Loamy,wheat,K,Potash
+16.31,24.32,59.67,Sandy,wheat,N,Ammonium Sulphate
+42.99,35.63,24.78,Loamy,rice,K,DAP
+19.66,88.55,32.86,Black,barley,P,Potash
+31.1,82.33,29.69,Loamy,millet,K,Compost
+35.52,39.5,52.97,Red,wheat,N,Compost
+26.73,65.56,68.85,Red,groundnut,N,Urea
+25.01,56.16,87.33,Loamy,rice,P,DAP
+30.3,52.58,38.57,Sandy,rice,P,Potash
+18.59,65.75,88.19,Loamy,barley,N,Ammonium Sulphate
+37.46,82.97,37.36,Loamy,cotton,K,DAP
+28.73,51.97,19.42,Sandy,maize,K,DAP
+33.87,80.55,10.29,Black,sugarcane,K,Ammonium Sulphate
+45.0,50.69,38.95,Loamy,groundnut,N,Urea
+15.56,73.05,65.12,Loamy,cotton,K,Urea
+43.85,62.01,23.18,Clay,millet,P,Urea
+10.87,74.83,74.3,Black,maize,N,Ammonium Sulphate
+10.97,46.54,13.73,Loamy,cotton,N,Urea
+18.75,38.88,19.74,Black,cotton,P,DAP
+25.07,34.75,55.25,Sandy,rice,P,Super Phosphate
+29.44,10.95,87.59,Red,wheat,P,Compost
+24.5,67.1,29.41,Loamy,wheat,N,Compost
+21.58,16.55,58.13,Red,groundnut,P,Compost
+19.29,38.29,83.75,Sandy,millet,N,Super Phosphate
+10.16,61.1,79.51,Sandy,maize,P,DAP
+43.36,50.33,60.86,Black,sugarcane,K,Ammonium Sulphate
+15.45,25.1,32.03,Sandy,wheat,P,Ammonium Sulphate
+13.86,23.12,64.69,Clay,sugarcane,P,Urea
+44.69,40.76,33.1,Clay,cotton,P,Ammonium Sulphate
+13.54,66.17,25.76,Clay,sugarcane,K,DAP
+13.03,44.24,65.45,Clay,groundnut,N,Ammonium Sulphate
+34.73,38.75,62.08,Black,cotton,K,Super Phosphate
+20.42,44.85,69.83,Clay,millet,K,DAP
+17.29,27.03,79.21,Black,rice,K,Super Phosphate
+28.03,32.26,76.39,Sandy,rice,K,Super Phosphate
+38.84,86.46,10.79,Red,maize,N,DAP
+42.48,43.81,15.65,Loamy,rice,K,Urea
+44.19,45.2,51.73,Red,cotton,P,DAP
+24.04,85.3,62.33,Black,sugarcane,K,Urea
+15.09,34.98,81.7,Clay,cotton,P,Compost
+20.82,70.23,62.38,Red,sugarcane,K,Potash
+25.54,39.98,68.32,Clay,sugarcane,P,Urea
+11.95,82.08,33.08,Sandy,groundnut,K,Urea
+35.98,77.69,25.89,Red,sugarcane,N,Super Phosphate
+26.33,85.68,88.84,Loamy,wheat,N,Super Phosphate
+18.02,41.52,83.15,Loamy,wheat,P,DAP
+36.2,64.61,40.69,Loamy,barley,K,Super Phosphate
+44.32,23.66,26.78,Red,groundnut,N,Urea
+24.77,76.15,33.01,Black,sugarcane,K,Potash
+24.53,63.94,78.36,Red,barley,K,Super Phosphate
+33.81,49.48,87.7,Black,wheat,P,DAP
+22.51,83.6,63.32,Black,wheat,P,Potash
+40.96,52.18,22.6,Red,rice,K,Ammonium Sulphate
+20.46,19.3,58.81,Sandy,sugarcane,K,Potash
+44.83,24.71,31.06,Sandy,wheat,P,DAP
+24.22,85.4,47.41,Black,millet,P,Urea
+26.54,68.49,27.57,Sandy,millet,N,Urea
+11.73,18.15,31.2,Red,wheat,N,DAP
+44.71,50.95,16.77,Clay,cotton,K,Ammonium Sulphate
+23.5,16.48,52.67,Loamy,maize,K,Potash
+23.39,70.8,59.66,Loamy,rice,K,Ammonium Sulphate
+23.99,77.94,37.0,Loamy,millet,N,DAP
+17.08,17.78,88.55,Black,wheat,K,Compost
+27.13,89.65,22.82,Sandy,barley,K,Urea
+42.84,81.57,63.65,Clay,millet,N,Super Phosphate
+23.62,51.7,27.45,Clay,maize,K,DAP
+15.79,41.37,61.22,Black,millet,N,Super Phosphate
+14.9,46.94,34.98,Sandy,wheat,K,Super Phosphate
+12.43,33.69,13.33,Sandy,barley,N,Potash
+11.69,87.97,17.96,Clay,rice,K,Compost
+23.81,23.11,26.89,Clay,barley,N,Potash
+25.46,85.6,29.01,Clay,cotton,N,Ammonium Sulphate
+22.59,14.69,75.56,Sandy,cotton,N,Ammonium Sulphate
+40.73,57.87,75.31,Red,wheat,K,DAP
+10.3,29.81,64.11,Sandy,rice,K,Compost
+16.96,49.84,62.18,Sandy,millet,K,DAP
+28.35,23.04,14.57,Black,barley,N,DAP
+27.33,37.45,72.24,Clay,wheat,K,DAP
+37.93,27.71,35.66,Clay,maize,N,Potash
+12.59,87.75,33.58,Sandy,millet,N,Compost
+39.36,50.49,46.39,Black,sugarcane,P,Super Phosphate
+24.62,31.12,49.61,Clay,groundnut,K,Potash
+36.42,22.4,35.77,Sandy,wheat,K,DAP
+33.72,62.45,32.51,Black,rice,N,Urea
+25.05,77.7,52.43,Sandy,groundnut,N,Ammonium Sulphate
+20.06,10.54,47.07,Loamy,maize,K,Super Phosphate
+44.66,53.68,42.03,Clay,cotton,K,Super Phosphate
+31.94,59.77,13.29,Sandy,barley,P,Urea
+43.28,34.41,85.27,Loamy,cotton,N,Potash
+20.29,18.39,11.59,Clay,wheat,N,DAP
+14.44,54.33,69.3,Clay,groundnut,N,Super Phosphate
+30.13,11.54,13.13,Loamy,cotton,P,Potash
+33.26,53.44,23.38,Clay,maize,P,DAP
+32.78,26.71,25.24,Black,millet,K,Potash
+15.5,11.22,82.82,Black,rice,N,DAP
+33.67,40.35,65.89,Loamy,cotton,P,Potash
+11.63,43.31,30.07,Black,groundnut,N,Compost
+16.8,26.67,51.45,Red,millet,P,Urea
+32.78,16.61,52.77,Loamy,millet,K,Compost
+20.04,53.92,33.1,Loamy,millet,N,Compost
+29.61,34.46,54.29,Black,groundnut,K,Super Phosphate
+43.07,73.73,73.15,Sandy,sugarcane,N,Potash
+37.95,23.68,36.74,Black,millet,K,Super Phosphate
+33.18,18.77,48.18,Black,maize,K,Super Phosphate
+18.89,45.12,38.77,Clay,cotton,K,Urea
+19.82,20.97,60.34,Red,millet,K,Ammonium Sulphate
+18.34,25.53,78.0,Loamy,maize,N,Urea
+38.17,56.1,19.71,Clay,groundnut,P,Potash
+38.0,77.62,89.49,Loamy,groundnut,N,Potash
+43.82,33.0,60.34,Loamy,wheat,N,Super Phosphate
+37.17,86.04,61.0,Black,rice,P,DAP
+28.59,24.89,10.99,Clay,wheat,P,Compost
+35.54,42.15,22.98,Red,sugarcane,P,Potash
+19.49,47.46,46.66,Loamy,rice,P,DAP
+24.94,36.14,79.89,Sandy,sugarcane,P,Potash
+13.13,86.49,45.95,Sandy,cotton,P,Potash
+39.22,74.82,22.41,Clay,groundnut,N,Potash
+30.49,10.12,68.05,Red,cotton,K,Super Phosphate
+24.18,64.21,17.91,Sandy,barley,K,DAP
+15.41,49.84,17.44,Loamy,wheat,P,DAP
+23.07,17.44,44.09,Black,rice,P,Urea
+14.06,26.49,76.17,Loamy,groundnut,K,Ammonium Sulphate
+41.69,30.14,48.22,Red,sugarcane,P,Urea
+14.09,21.85,69.06,Sandy,millet,P,Urea
+42.15,88.16,19.23,Black,wheat,N,Ammonium Sulphate
+18.64,69.75,40.57,Loamy,maize,P,DAP
+32.01,23.06,49.08,Red,maize,N,Urea
+27.1,48.78,30.11,Sandy,wheat,K,DAP
+23.13,66.2,31.78,Loamy,cotton,N,Super Phosphate
+38.06,87.64,52.28,Black,wheat,N,Ammonium Sulphate
+19.58,29.79,84.27,Black,barley,N,Compost
+31.38,69.97,24.7,Sandy,cotton,P,DAP
+36.5,85.87,88.64,Loamy,sugarcane,P,Compost
+19.94,89.17,28.28,Black,cotton,N,Compost
+23.65,22.49,56.12,Clay,cotton,N,Potash
+15.87,60.02,74.25,Sandy,groundnut,K,Compost
+35.46,78.75,24.92,Red,millet,N,Ammonium Sulphate
+29.77,69.24,46.31,Red,millet,N,Ammonium Sulphate
+11.35,59.42,19.11,Sandy,barley,N,Ammonium Sulphate
+16.73,19.11,48.79,Clay,groundnut,K,Urea
+21.07,78.2,29.96,Loamy,cotton,K,Ammonium Sulphate
+23.66,69.73,74.84,Red,cotton,P,Urea
+40.49,59.9,65.64,Loamy,sugarcane,P,Compost
+42.69,21.4,56.5,Black,barley,K,Potash
+35.77,57.56,30.52,Clay,maize,K,Urea
+19.99,11.57,63.97,Red,maize,P,Ammonium Sulphate
+39.7,50.56,21.49,Sandy,groundnut,N,Compost
+37.4,46.58,21.75,Sandy,rice,P,Compost
+21.94,81.09,12.76,Loamy,wheat,P,Ammonium Sulphate
+42.26,58.08,67.15,Clay,groundnut,K,Super Phosphate
+22.16,77.66,11.06,Clay,millet,P,Urea
+18.73,71.71,22.06,Sandy,wheat,K,Super Phosphate
+25.83,37.94,88.12,Red,sugarcane,P,Urea
+18.89,81.86,81.07,Black,cotton,P,Potash
+37.59,12.91,61.89,Clay,sugarcane,N,Urea
+32.33,31.25,11.96,Clay,barley,P,Super Phosphate
+27.6,24.08,65.84,Sandy,cotton,N,Compost
+14.42,18.82,10.23,Clay,rice,N,Ammonium Sulphate
+18.16,53.03,87.44,Loamy,rice,K,Super Phosphate
+25.35,18.99,57.51,Clay,sugarcane,P,Urea
+34.93,61.24,22.39,Clay,maize,N,Ammonium Sulphate
+29.86,75.95,43.76,Sandy,barley,P,Ammonium Sulphate
+31.66,75.92,25.24,Black,wheat,N,Potash
+12.99,56.62,44.25,Black,maize,K,Ammonium Sulphate
+43.63,78.49,80.7,Red,wheat,P,Compost
+21.38,72.49,81.18,Sandy,rice,P,Compost
+17.56,89.24,42.39,Loamy,sugarcane,P,Ammonium Sulphate
+42.13,58.1,41.64,Loamy,rice,P,Potash
+25.0,79.46,28.34,Black,cotton,N,Compost
+15.7,46.83,62.76,Clay,cotton,N,Super Phosphate
+33.24,64.45,85.09,Clay,maize,N,Super Phosphate
+36.49,28.41,56.22,Red,groundnut,K,Ammonium Sulphate
+20.24,89.3,61.83,Loamy,wheat,N,Urea
+44.17,68.78,48.94,Loamy,barley,N,Urea
+35.58,55.54,39.68,Loamy,sugarcane,N,Compost
+43.03,62.38,52.24,Red,groundnut,K,Urea
+36.67,24.37,23.8,Sandy,barley,N,Ammonium Sulphate
+10.52,32.04,51.89,Black,sugarcane,K,Urea
+15.66,67.62,48.39,Loamy,maize,P,Potash
+27.44,73.1,62.01,Clay,millet,K,Potash
+37.66,47.91,20.63,Red,cotton,K,Potash
+41.69,55.4,51.45,Black,cotton,N,Potash
+34.13,24.26,22.79,Loamy,cotton,N,Super Phosphate
+11.82,75.65,88.25,Loamy,sugarcane,N,DAP
+31.33,22.12,63.92,Loamy,barley,P,Urea
+31.38,58.89,24.7,Loamy,sugarcane,N,Urea
+26.56,44.34,11.0,Red,sugarcane,P,Compost
+35.82,24.87,26.8,Black,maize,N,Urea
+31.89,82.25,11.45,Sandy,wheat,N,Compost
+13.41,61.83,51.7,Sandy,groundnut,N,Compost
+44.81,87.97,74.89,Sandy,millet,N,Super Phosphate
+17.66,35.96,35.68,Sandy,maize,K,Potash
+22.92,39.6,70.55,Loamy,barley,P,Urea
+38.07,33.64,44.09,Loamy,rice,P,Urea
+27.0,60.7,50.11,Black,maize,N,Ammonium Sulphate
+43.09,29.69,55.94,Sandy,barley,P,Potash
+21.4,44.56,27.16,Black,groundnut,K,Compost
+32.62,30.28,12.6,Clay,barley,K,Ammonium Sulphate
+11.33,14.18,84.08,Clay,rice,P,DAP
+18.28,72.26,74.16,Loamy,cotton,K,DAP
+10.4,31.82,77.28,Black,millet,P,Ammonium Sulphate
+22.02,45.36,18.96,Clay,wheat,N,Compost
+35.48,51.93,61.79,Red,sugarcane,N,DAP
+18.86,58.51,11.77,Loamy,groundnut,K,Ammonium Sulphate
+17.14,38.16,33.49,Black,sugarcane,P,Urea
+35.76,24.67,74.63,Clay,millet,P,Super Phosphate
+38.7,84.62,89.39,Clay,cotton,P,DAP
+13.06,52.53,41.95,Black,barley,P,DAP
+28.06,22.96,29.29,Black,rice,N,Super Phosphate
+27.97,71.74,65.63,Black,sugarcane,P,Super Phosphate
+16.56,71.62,42.23,Loamy,wheat,K,DAP
+26.72,35.33,56.24,Sandy,groundnut,N,DAP
+43.58,80.16,34.43,Red,sugarcane,N,Potash
+10.81,20.15,57.93,Red,rice,K,Urea
+25.29,88.91,29.25,Clay,barley,P,DAP
+44.56,25.42,87.63,Clay,groundnut,P,Urea
+31.41,76.97,30.68,Sandy,sugarcane,P,Potash
+15.33,58.57,68.85,Red,maize,N,Potash
+43.62,34.18,63.64,Sandy,maize,P,Super Phosphate
+19.2,45.59,58.92,Black,groundnut,P,Potash
+21.9,34.86,19.99,Clay,barley,K,DAP
+18.3,74.64,87.84,Clay,wheat,K,Compost
+40.04,38.4,12.36,Red,groundnut,P,Ammonium Sulphate
+10.9,87.68,25.77,Sandy,wheat,P,Super Phosphate
+15.02,11.38,42.67,Clay,cotton,K,Ammonium Sulphate
+11.49,84.78,89.38,Sandy,millet,N,DAP
+45.0,82.88,61.76,Sandy,maize,P,Potash
+26.59,18.75,73.36,Black,sugarcane,P,Urea
+39.32,67.15,87.57,Red,maize,N,Potash
+20.96,53.49,25.36,Black,millet,K,Potash
+18.02,24.04,43.46,Red,millet,N,Potash
+35.62,60.28,51.3,Clay,millet,K,Urea
+34.8,77.41,67.71,Black,millet,K,Compost
+37.44,53.31,23.01,Clay,barley,P,Urea
+31.57,47.73,45.69,Clay,wheat,N,Compost
+17.46,82.12,72.46,Loamy,barley,P,DAP
+36.48,14.92,44.08,Clay,barley,N,Super Phosphate
+36.37,31.84,74.05,Loamy,sugarcane,K,Urea
+22.36,46.37,56.0,Loamy,millet,P,Ammonium Sulphate
+17.64,61.56,42.22,Loamy,cotton,P,Ammonium Sulphate
+43.14,24.21,82.18,Loamy,millet,K,Urea
+11.23,30.34,78.07,Black,wheat,N,Compost
+32.81,28.14,39.84,Sandy,rice,P,Super Phosphate
+33.19,32.69,54.12,Loamy,barley,K,Ammonium Sulphate
+26.15,15.01,70.24,Loamy,groundnut,P,Super Phosphate
+18.99,24.65,80.55,Sandy,millet,N,Potash
+10.88,52.68,12.8,Red,wheat,K,Ammonium Sulphate
+10.85,16.98,72.2,Black,groundnut,N,DAP
+24.42,60.54,55.87,Sandy,cotton,P,Super Phosphate
+34.39,10.05,72.44,Loamy,wheat,K,Potash
+28.21,30.19,70.57,Sandy,sugarcane,P,Potash
+43.6,78.81,29.57,Red,barley,N,Ammonium Sulphate
+38.61,21.28,38.7,Sandy,cotton,K,Super Phosphate
+38.61,65.24,81.21,Loamy,millet,N,Super Phosphate
+37.92,39.54,45.0,Black,maize,P,DAP
+19.98,33.87,54.16,Loamy,millet,N,DAP
+41.64,40.43,51.08,Loamy,sugarcane,N,Ammonium Sulphate
+12.68,48.14,33.7,Black,cotton,P,Potash
+13.19,33.43,21.45,Sandy,cotton,P,Compost
+34.61,37.54,84.2,Loamy,rice,P,Compost
+39.39,62.1,36.52,Loamy,millet,P,Urea
+19.21,53.67,21.25,Black,sugarcane,K,Ammonium Sulphate
+17.62,39.21,15.27,Sandy,barley,K,Super Phosphate
+35.91,23.06,11.89,Loamy,millet,P,Ammonium Sulphate
+20.61,52.96,42.67,Red,maize,K,DAP
+16.85,54.17,26.56,Loamy,groundnut,P,Urea
+26.56,40.31,75.18,Red,cotton,N,Urea
+23.26,27.89,13.51,Black,sugarcane,K,Potash
+36.44,14.41,78.8,Black,sugarcane,K,Urea
+17.47,68.25,75.89,Sandy,groundnut,N,Urea
+17.47,15.73,54.89,Black,millet,K,Potash
+43.38,42.68,27.68,Clay,millet,N,Potash
+22.07,34.77,74.59,Black,cotton,P,Potash
+38.5,21.28,26.45,Loamy,sugarcane,K,Compost
+39.28,80.68,36.67,Red,rice,P,DAP
+32.39,24.43,34.35,Red,millet,N,DAP
+13.37,58.94,87.56,Sandy,sugarcane,K,DAP
+37.88,67.39,84.48,Sandy,cotton,P,Super Phosphate
+28.6,74.62,38.49,Red,barley,K,Super Phosphate
+19.44,30.82,25.37,Red,cotton,K,DAP
+19.31,11.85,71.89,Loamy,rice,N,Ammonium Sulphate
+30.75,27.1,66.87,Loamy,groundnut,N,DAP
+40.84,73.75,17.28,Red,cotton,K,Super Phosphate
+34.69,49.95,31.19,Red,rice,N,Compost
+25.09,54.46,38.21,Sandy,rice,P,Urea
+38.66,88.06,45.79,Red,maize,K,Ammonium Sulphate
+28.06,17.3,62.39,Loamy,groundnut,K,Urea
+38.68,78.64,33.9,Clay,barley,N,Compost
+28.99,76.71,87.49,Sandy,cotton,K,DAP
+13.92,43.81,20.12,Sandy,wheat,N,Compost
+27.51,41.18,86.27,Red,millet,N,Compost
+42.01,72.31,81.12,Sandy,wheat,K,Ammonium Sulphate
+29.32,65.28,48.47,Black,rice,P,Super Phosphate
+37.23,62.2,46.38,Loamy,cotton,N,Potash
+19.01,32.99,59.08,Sandy,groundnut,P,Ammonium Sulphate
+43.88,72.06,39.54,Black,maize,K,Ammonium Sulphate
+10.19,71.17,62.18,Sandy,sugarcane,P,Compost
+37.7,47.78,49.38,Sandy,barley,P,Urea
+10.65,34.19,12.27,Black,cotton,N,Urea
+29.67,10.69,48.63,Black,millet,P,Potash
+34.8,21.36,72.41,Loamy,maize,K,DAP
+28.56,43.05,65.26,Black,wheat,N,Compost
+43.25,24.29,22.71,Loamy,wheat,K,DAP
+41.14,25.18,73.34,Red,cotton,N,Urea
+35.1,44.24,87.79,Clay,cotton,P,Potash
+40.03,74.42,16.46,Red,groundnut,P,Compost
+16.83,29.44,12.68,Red,wheat,K,Ammonium Sulphate
+34.84,21.95,33.29,Sandy,barley,P,Potash
+14.96,81.84,63.92,Clay,millet,N,Ammonium Sulphate
+42.53,67.09,31.75,Loamy,rice,K,Ammonium Sulphate
+31.54,23.81,57.13,Loamy,barley,N,Compost
+16.97,19.34,38.23,Loamy,rice,N,Compost
+31.03,42.48,48.76,Red,wheat,K,Urea
+41.06,62.24,71.51,Loamy,millet,N,Urea
+26.74,71.32,57.36,Black,sugarcane,N,Ammonium Sulphate
+11.04,14.08,55.6,Black,barley,N,Super Phosphate
+19.79,63.99,36.96,Clay,barley,P,Compost
+11.26,81.99,56.58,Sandy,barley,N,Urea
+10.76,70.11,20.1,Clay,maize,K,DAP
+19.89,20.05,59.57,Black,wheat,P,Urea
+11.39,37.85,32.4,Loamy,barley,K,Potash
+44.41,89.07,65.18,Black,rice,P,Compost
+34.28,11.0,37.34,Red,sugarcane,N,Ammonium Sulphate
+42.51,85.25,14.65,Loamy,groundnut,P,Super Phosphate
+19.92,83.24,70.76,Black,millet,P,DAP
+27.1,27.94,52.41,Sandy,cotton,N,Super Phosphate
+34.49,72.68,78.29,Loamy,rice,K,Urea
+31.22,33.07,43.81,Loamy,barley,P,DAP
+10.58,36.77,77.77,Loamy,rice,N,Super Phosphate
+11.53,19.7,26.24,Sandy,wheat,K,Potash
+28.93,79.26,78.74,Red,barley,N,Super Phosphate
+30.66,37.45,62.45,Red,rice,K,Super Phosphate
+16.02,29.73,43.11,Clay,maize,N,DAP
+33.88,17.81,21.6,Red,cotton,N,Potash
+17.69,47.43,57.47,Sandy,cotton,P,Compost
+36.96,31.64,61.17,Sandy,rice,P,Potash
+35.6,47.94,33.37,Black,wheat,P,Super Phosphate
+38.38,18.87,10.59,Black,groundnut,P,DAP
+41.24,76.86,73.9,Black,millet,N,Ammonium Sulphate
+37.09,79.55,57.96,Loamy,barley,N,DAP
+17.88,86.27,76.96,Loamy,rice,P,Ammonium Sulphate
+22.71,78.91,53.51,Black,millet,K,Potash
+44.42,57.77,80.74,Black,cotton,P,Urea
+42.0,26.1,83.48,Black,millet,K,DAP
+27.19,43.36,18.74,Sandy,wheat,P,Urea
+15.87,23.29,12.36,Red,cotton,N,Potash
+33.82,39.12,33.46,Sandy,wheat,N,Compost
+34.45,86.94,19.59,Sandy,cotton,K,Compost
+35.88,41.23,28.24,Black,sugarcane,P,Super Phosphate
+30.18,25.33,16.3,Black,maize,K,Urea
+32.91,16.18,27.11,Clay,maize,K,Urea
+23.94,13.84,16.18,Clay,sugarcane,N,DAP
+33.5,10.06,25.5,Sandy,cotton,K,Compost
+41.14,15.71,87.03,Loamy,millet,P,Super Phosphate
+34.94,33.87,68.52,Sandy,sugarcane,P,Ammonium Sulphate
+22.27,13.43,30.1,Loamy,barley,K,Urea
+28.81,12.28,88.78,Red,sugarcane,K,Urea
+15.96,26.97,47.29,Red,groundnut,N,Urea
+11.63,56.23,78.47,Red,millet,N,Compost
+23.74,80.85,56.89,Black,wheat,P,Urea
+25.55,58.13,43.12,Clay,barley,N,Ammonium Sulphate
+41.32,82.41,56.65,Sandy,cotton,K,Super Phosphate
+44.0,30.97,40.22,Red,millet,N,Super Phosphate
+14.52,23.18,59.04,Loamy,wheat,N,Ammonium Sulphate
+42.42,80.38,71.51,Clay,wheat,P,Super Phosphate
+41.6,56.67,65.07,Red,sugarcane,P,Super Phosphate
+19.19,23.44,51.02,Black,barley,P,Super Phosphate
+16.52,60.09,86.04,Loamy,wheat,P,Super Phosphate
+33.48,74.29,84.76,Red,groundnut,N,Potash
+20.59,43.08,73.66,Clay,cotton,P,Compost
+25.56,87.76,44.24,Black,groundnut,K,DAP
+13.79,31.8,85.01,Red,wheat,N,Ammonium Sulphate
+44.92,22.98,79.21,Red,wheat,N,Potash
+17.27,23.87,39.14,Black,sugarcane,P,Super Phosphate
+42.03,42.14,19.75,Black,sugarcane,N,DAP
+25.98,50.01,57.02,Loamy,millet,P,Ammonium Sulphate
+28.67,74.38,35.06,Red,sugarcane,N,Compost
+35.25,61.96,67.14,Sandy,millet,N,Ammonium Sulphate
+30.54,76.33,42.22,Sandy,millet,K,Potash
+35.46,83.78,85.47,Red,rice,K,Compost
+28.35,88.71,68.68,Loamy,rice,K,Urea
+31.67,67.48,54.01,Loamy,sugarcane,P,Urea
+40.84,74.74,27.0,Black,cotton,P,Compost
+11.36,77.72,27.6,Sandy,groundnut,K,Urea
+42.77,43.55,80.93,Black,wheat,N,DAP
+19.5,48.04,67.31,Black,millet,P,Compost
+23.7,75.94,41.29,Loamy,millet,K,Ammonium Sulphate
+29.27,26.86,30.65,Black,sugarcane,N,DAP
+32.97,68.7,15.14,Red,sugarcane,K,Compost
+38.04,67.04,81.23,Loamy,barley,P,DAP
+27.03,44.29,14.03,Sandy,millet,N,Super Phosphate
+14.58,22.4,14.3,Clay,wheat,K,Compost
+18.86,61.15,17.11,Loamy,cotton,K,Super Phosphate
+22.92,71.88,63.0,Sandy,barley,P,Ammonium Sulphate
+19.55,36.81,52.58,Red,sugarcane,K,Potash
+43.34,12.49,35.94,Loamy,cotton,K,DAP
+38.11,47.66,52.87,Clay,sugarcane,N,Ammonium Sulphate
+15.17,45.17,37.2,Red,barley,N,Potash
+17.83,78.7,56.08,Sandy,cotton,N,Urea
+19.55,13.12,48.48,Clay,sugarcane,P,Potash
+14.93,69.29,55.96,Sandy,wheat,N,DAP
+44.25,58.71,27.43,Red,millet,K,Urea
+40.24,73.15,37.92,Red,groundnut,N,Potash
+35.02,56.94,83.9,Red,sugarcane,K,Ammonium Sulphate
+20.08,24.78,28.07,Clay,wheat,P,Super Phosphate
+15.8,77.45,31.01,Black,rice,K,DAP
+21.08,48.02,44.61,Black,barley,K,Potash
+26.97,82.53,65.81,Black,maize,P,Compost
+43.08,69.18,56.43,Black,rice,P,Ammonium Sulphate
+32.99,15.97,56.72,Sandy,rice,P,Compost
+41.91,69.9,37.69,Black,wheat,N,Potash
+23.94,72.04,74.71,Loamy,cotton,N,Compost
+39.31,87.22,70.03,Red,rice,N,Urea
+15.05,42.83,19.91,Clay,cotton,N,Urea
+36.69,38.92,31.49,Sandy,sugarcane,N,Ammonium Sulphate
+32.21,20.37,10.99,Red,wheat,N,DAP
+33.26,87.78,10.41,Sandy,sugarcane,K,Super Phosphate
+13.39,72.28,52.93,Black,barley,P,Ammonium Sulphate
+39.38,32.34,27.13,Black,cotton,N,Compost
+15.26,79.22,43.54,Sandy,wheat,K,Ammonium Sulphate
+24.47,26.61,47.62,Black,cotton,P,Potash
+16.54,85.47,36.25,Sandy,groundnut,K,DAP
+16.04,32.41,37.76,Loamy,sugarcane,K,Super Phosphate
+44.97,18.59,19.4,Red,maize,N,Compost
+18.8,11.5,11.86,Black,wheat,N,Potash
+25.73,85.91,42.12,Red,sugarcane,K,Compost
+42.28,53.39,26.61,Clay,millet,K,Ammonium Sulphate
+13.74,83.84,80.24,Loamy,sugarcane,N,Super Phosphate
+32.68,88.74,70.04,Black,groundnut,N,Potash
+18.91,49.96,13.36,Black,maize,P,Compost
+24.19,80.82,23.01,Loamy,rice,P,Ammonium Sulphate
+35.79,74.79,18.97,Red,groundnut,P,Compost
+18.25,68.41,10.52,Red,rice,P,Potash
+21.57,22.92,81.69,Clay,barley,K,Super Phosphate
+39.02,41.3,76.32,Clay,rice,N,Compost
+13.52,26.23,72.71,Black,millet,N,Ammonium Sulphate
+27.15,24.83,35.34,Red,cotton,P,Potash
+25.18,69.61,89.27,Red,maize,P,Compost
+41.23,16.67,61.57,Black,rice,N,Super Phosphate
+12.79,82.9,32.2,Sandy,rice,K,Urea
+40.21,36.99,76.9,Red,sugarcane,N,Urea
+15.43,87.01,20.78,Black,barley,P,Compost
+23.28,40.57,68.86,Black,cotton,K,Potash
+23.48,62.25,82.34,Clay,millet,N,Ammonium Sulphate
+13.1,17.46,25.3,Loamy,maize,N,Potash
+10.73,31.61,86.27,Black,millet,K,Compost
+43.85,43.96,48.76,Red,wheat,P,Compost
+29.61,33.5,78.2,Sandy,rice,N,Potash
+26.87,53.09,41.6,Loamy,barley,K,Super Phosphate
+22.47,22.43,24.37,Clay,wheat,N,Urea
+21.51,35.26,38.23,Sandy,millet,N,Potash
+42.85,74.92,29.81,Red,groundnut,N,DAP
+35.18,77.23,10.75,Red,millet,K,Super Phosphate
+30.23,88.56,34.62,Sandy,millet,P,Super Phosphate
+36.83,65.13,80.22,Sandy,maize,P,DAP
+10.2,38.23,45.06,Loamy,sugarcane,P,Super Phosphate
+22.58,42.45,56.02,Sandy,wheat,K,DAP
+31.25,10.61,21.74,Loamy,sugarcane,N,Super Phosphate
+12.78,18.64,74.41,Red,wheat,N,Potash
+12.08,65.52,80.03,Clay,rice,N,Super Phosphate
+43.4,52.43,81.22,Black,sugarcane,P,Potash
+35.36,57.06,56.96,Clay,sugarcane,N,Urea
+25.82,33.55,89.9,Loamy,sugarcane,P,Compost
+33.29,16.8,57.17,Red,cotton,P,Super Phosphate
+33.87,88.37,45.07,Black,rice,K,Urea
+16.37,36.77,49.97,Black,millet,P,DAP
+16.9,34.47,13.41,Red,millet,K,Compost
+16.68,76.04,75.17,Sandy,groundnut,P,Urea
+20.72,24.92,85.26,Loamy,barley,N,Super Phosphate
+44.21,61.3,26.33,Clay,millet,N,Compost
+28.19,86.4,33.09,Sandy,millet,P,Super Phosphate
+26.43,29.85,46.16,Red,groundnut,P,Potash
+21.37,53.36,26.57,Red,sugarcane,K,Urea
+35.64,61.62,78.07,Red,wheat,K,Urea
+15.49,51.43,21.75,Loamy,groundnut,K,DAP
+34.59,51.8,19.62,Red,sugarcane,K,Super Phosphate
+32.33,44.17,67.95,Red,cotton,P,Ammonium Sulphate
+38.15,41.61,63.74,Loamy,wheat,P,Ammonium Sulphate
+34.19,14.0,25.5,Loamy,barley,P,Ammonium Sulphate
+10.58,15.4,56.82,Sandy,rice,N,Compost
+42.47,15.21,25.31,Black,cotton,K,Super Phosphate
+31.88,27.44,49.2,Sandy,wheat,P,Compost
+27.5,89.17,68.43,Sandy,groundnut,P,Potash
+41.64,34.72,17.79,Loamy,millet,K,Compost
+19.98,17.45,33.3,Black,barley,P,Ammonium Sulphate
+19.65,10.82,78.23,Clay,millet,N,Urea
+24.44,82.77,62.11,Loamy,sugarcane,N,Urea
+25.68,71.42,21.03,Sandy,millet,K,Urea
+14.1,68.13,69.26,Loamy,wheat,K,DAP
+32.95,26.43,17.34,Black,maize,N,Ammonium Sulphate
+15.41,77.67,28.02,Loamy,wheat,P,Ammonium Sulphate
+39.19,77.56,14.16,Clay,maize,P,Super Phosphate
+30.8,38.33,28.72,Red,millet,P,DAP
+41.29,49.43,65.7,Black,millet,K,Urea
+37.29,49.14,17.67,Black,cotton,N,Potash
+17.52,39.61,73.0,Clay,millet,K,Compost
+19.89,40.44,38.04,Black,groundnut,P,DAP
+24.87,37.82,80.02,Sandy,wheat,K,Ammonium Sulphate
+44.43,50.82,59.38,Red,wheat,N,Super Phosphate
+36.97,45.13,59.09,Loamy,millet,K,Urea
+26.22,69.56,89.44,Loamy,sugarcane,K,Urea
+31.01,88.19,64.17,Red,barley,P,Urea
+33.69,80.71,89.08,Red,rice,P,DAP
+16.06,18.44,57.97,Sandy,rice,N,Urea
+10.47,84.69,46.55,Clay,wheat,N,Urea
+43.56,21.11,87.25,Clay,wheat,N,DAP
+28.0,18.17,54.78,Red,groundnut,N,Compost
+30.86,32.91,88.14,Black,rice,P,Ammonium Sulphate
+22.46,24.11,66.28,Black,rice,P,Super Phosphate
+34.36,21.94,30.18,Clay,maize,N,Ammonium Sulphate
+12.16,41.23,27.61,Clay,groundnut,N,Super Phosphate
+16.99,25.75,85.35,Loamy,maize,P,Compost
+24.01,50.97,70.64,Red,groundnut,K,Potash
+33.33,32.46,87.51,Red,barley,P,Super Phosphate
+41.81,32.5,80.26,Sandy,rice,N,Urea
+32.96,11.56,31.37,Black,cotton,P,Potash
+38.58,79.27,51.99,Red,cotton,K,Potash
+37.46,51.43,18.15,Clay,wheat,P,DAP
+37.17,22.51,37.6,Sandy,wheat,P,DAP
+17.35,57.59,33.06,Black,barley,N,Potash
+14.73,73.29,77.5,Red,maize,K,DAP
+24.97,61.85,57.89,Black,millet,K,Super Phosphate
+24.28,23.38,56.57,Red,sugarcane,P,Ammonium Sulphate
+33.08,81.56,64.07,Clay,maize,P,Compost
+32.67,25.98,46.74,Red,barley,P,Urea
+21.78,83.47,19.51,Loamy,rice,N,Super Phosphate
+41.43,80.41,27.38,Red,rice,K,Compost
+18.41,88.31,86.46,Loamy,cotton,K,Urea
+41.95,71.53,40.38,Black,groundnut,K,Potash
+23.5,28.43,66.92,Black,rice,K,Super Phosphate
+37.54,74.23,72.82,Red,sugarcane,N,Potash
+30.15,63.85,13.89,Clay,wheat,N,Potash
+30.48,33.38,82.46,Clay,sugarcane,N,Compost
+10.56,12.34,25.82,Loamy,maize,P,Compost
+39.82,66.74,37.98,Sandy,maize,K,Potash
+27.07,35.26,86.77,Sandy,sugarcane,N,Super Phosphate
+37.21,55.47,66.77,Loamy,millet,N,Compost
+22.29,82.81,80.46,Loamy,barley,N,DAP
+42.63,25.27,27.2,Sandy,maize,K,Ammonium Sulphate
+22.4,65.16,44.98,Clay,rice,K,Potash
+38.13,70.36,63.47,Red,rice,N,Super Phosphate
+33.57,28.57,54.69,Clay,millet,K,Ammonium Sulphate
+43.02,61.4,22.86,Sandy,barley,K,Ammonium Sulphate
+16.24,58.57,66.02,Loamy,groundnut,K,Potash
+37.12,53.12,79.69,Black,millet,P,Ammonium Sulphate
+31.97,71.46,68.83,Sandy,maize,K,Compost
+14.91,65.0,60.11,Red,sugarcane,N,Urea
+21.15,39.58,52.13,Clay,maize,N,Super Phosphate
+26.52,85.74,19.61,Black,sugarcane,P,Potash
+43.37,19.83,46.05,Sandy,cotton,K,DAP
+26.95,46.71,67.69,Sandy,maize,P,DAP
+14.82,37.01,64.07,Black,millet,K,Potash
+30.34,47.51,71.91,Loamy,groundnut,K,Super Phosphate
+20.78,13.18,59.48,Black,cotton,K,DAP
+28.52,41.43,26.52,Red,groundnut,P,Ammonium Sulphate
+11.78,22.79,65.03,Red,cotton,P,Urea
+38.01,30.85,26.15,Sandy,rice,P,Urea
+16.55,16.66,75.29,Black,sugarcane,N,Potash
+11.16,46.44,45.13,Sandy,millet,K,Compost
+15.58,82.5,48.17,Clay,sugarcane,N,Potash
+22.01,76.33,74.18,Red,groundnut,P,Ammonium Sulphate
+13.02,37.29,26.94,Clay,wheat,K,Super Phosphate
+10.73,69.43,21.35,Sandy,wheat,K,Ammonium Sulphate
+30.3,29.31,33.72,Clay,millet,N,Ammonium Sulphate
+22.08,14.66,72.59,Red,cotton,P,Urea
+16.21,19.1,70.7,Black,rice,K,Compost
+27.99,12.11,41.38,Black,maize,P,Urea
+42.2,35.75,23.58,Sandy,barley,P,Urea
+25.9,66.2,21.96,Loamy,sugarcane,P,DAP
+29.02,34.8,10.27,Black,rice,P,Potash
+10.49,33.47,47.91,Black,wheat,N,Super Phosphate
+33.72,44.97,45.77,Sandy,maize,P,Ammonium Sulphate
+22.99,63.11,43.7,Sandy,maize,P,Compost
+44.05,30.98,42.36,Red,barley,P,Super Phosphate
+10.69,64.58,39.75,Sandy,maize,P,Super Phosphate
+25.39,88.0,44.11,Sandy,sugarcane,P,Compost
+32.31,46.19,53.7,Loamy,millet,K,Compost
+16.43,25.1,35.1,Loamy,rice,K,Ammonium Sulphate
+28.81,42.08,32.14,Black,millet,N,Potash
+12.37,77.02,87.14,Clay,maize,P,Compost
+30.82,52.84,87.73,Red,cotton,K,Ammonium Sulphate
+20.52,61.56,30.81,Clay,wheat,K,Ammonium Sulphate
+21.67,58.48,81.47,Loamy,groundnut,N,Ammonium Sulphate
+43.47,18.39,23.28,Clay,sugarcane,P,Urea
+21.0,38.53,66.2,Loamy,cotton,N,Compost
+25.4,78.83,69.84,Loamy,millet,P,DAP
+10.93,41.5,55.4,Clay,wheat,K,DAP
+12.92,89.44,49.09,Sandy,maize,P,Compost
+22.09,12.67,48.03,Loamy,wheat,N,DAP
+41.94,58.8,69.37,Sandy,barley,P,Compost
+17.47,83.67,68.19,Red,maize,P,Super Phosphate
+19.09,86.76,81.15,Red,cotton,N,Compost
+31.66,70.82,65.85,Loamy,groundnut,K,Super Phosphate
+34.05,36.45,24.71,Clay,wheat,N,Urea
+26.06,46.77,57.41,Black,maize,N,Potash
+27.54,72.16,50.98,Clay,wheat,N,Urea
+24.22,62.6,32.05,Black,maize,N,Ammonium Sulphate
+25.72,58.25,84.81,Sandy,cotton,N,Ammonium Sulphate
+11.46,22.62,76.36,Loamy,barley,N,Potash
+28.83,48.2,59.06,Loamy,maize,N,Potash
+23.39,70.3,64.79,Loamy,groundnut,N,DAP
+23.44,31.91,30.59,Loamy,cotton,K,Potash
+15.28,42.95,58.84,Red,sugarcane,K,Super Phosphate
+31.32,61.22,41.88,Clay,cotton,K,DAP
+22.56,39.0,36.54,Black,cotton,P,DAP
+19.0,80.57,56.99,Loamy,sugarcane,P,Super Phosphate
+43.64,88.57,63.99,Red,millet,N,Urea
+24.32,43.22,34.5,Sandy,barley,N,Potash
+27.3,89.39,55.44,Red,maize,K,Super Phosphate
+22.07,61.39,69.08,Sandy,wheat,K,Compost
+37.56,16.33,83.97,Red,barley,N,DAP
+25.62,71.87,35.41,Black,maize,N,Compost
+12.69,79.84,33.58,Clay,sugarcane,P,Potash
+32.78,18.37,66.14,Clay,groundnut,K,Super Phosphate
+42.35,61.08,34.63,Sandy,maize,K,Ammonium Sulphate
+27.9,61.08,48.86,Black,cotton,K,Compost
+26.05,24.11,21.92,Red,cotton,P,DAP
+31.63,50.42,59.63,Red,cotton,N,Super Phosphate
+30.52,38.97,26.78,Black,cotton,K,Ammonium Sulphate
+44.61,55.95,63.84,Sandy,groundnut,P,Ammonium Sulphate
+29.79,11.22,10.88,Loamy,groundnut,P,Potash
+37.58,21.09,13.16,Loamy,millet,K,Urea
+18.55,61.4,25.66,Sandy,rice,P,Super Phosphate
+22.34,81.17,28.62,Clay,groundnut,K,Compost
+34.94,84.66,51.89,Black,millet,K,Urea
+19.74,87.62,63.31,Clay,maize,K,DAP
+44.59,23.53,67.65,Red,groundnut,K,DAP
+15.9,15.96,37.12,Black,maize,N,DAP
+24.76,28.04,62.47,Sandy,rice,K,Urea
+22.68,36.91,56.32,Clay,millet,K,Urea
+21.62,37.74,52.42,Sandy,rice,N,Compost
+39.35,37.18,61.81,Black,maize,K,Potash
+40.83,59.57,62.31,Sandy,groundnut,P,Potash
+43.21,35.35,18.51,Red,cotton,N,DAP
+27.09,29.4,44.59,Black,sugarcane,K,Potash
+40.98,65.9,53.97,Sandy,wheat,N,Urea
+37.12,16.27,32.46,Black,sugarcane,N,Ammonium Sulphate
+15.19,52.42,10.78,Red,barley,K,Super Phosphate
+10.38,86.63,16.78,Red,wheat,N,Ammonium Sulphate
+26.34,69.47,77.18,Clay,cotton,N,Potash
+15.72,42.81,87.01,Clay,millet,P,DAP
+29.33,10.42,22.39,Red,maize,K,DAP
+39.14,34.24,43.55,Sandy,wheat,N,Potash
+20.09,61.43,62.18,Clay,cotton,N,Compost
+20.62,22.41,55.09,Red,barley,N,Potash
+40.68,75.8,61.82,Black,sugarcane,P,DAP
+34.42,67.13,37.89,Sandy,cotton,P,Super Phosphate
+19.76,69.73,36.82,Black,wheat,N,DAP
+11.51,55.99,59.51,Red,groundnut,K,Urea
+32.17,31.25,81.1,Black,cotton,N,DAP
+33.12,88.93,82.41,Sandy,millet,K,Ammonium Sulphate
+19.3,10.81,84.27,Clay,sugarcane,P,Potash
+28.48,37.17,27.86,Clay,maize,K,Compost
+30.15,38.96,83.29,Loamy,barley,N,Compost
+10.77,74.47,87.38,Clay,rice,P,Super Phosphate
+35.1,75.66,64.74,Loamy,sugarcane,K,Potash
+31.76,47.77,64.66,Black,wheat,P,DAP
+36.18,66.04,53.37,Clay,groundnut,N,Potash
+14.17,39.47,84.32,Clay,rice,K,Potash
+10.97,28.27,57.04,Loamy,cotton,P,Potash
+43.67,58.25,10.82,Red,sugarcane,N,Super Phosphate
+30.49,61.33,32.04,Loamy,groundnut,K,Potash
+14.23,26.31,25.91,Loamy,rice,N,Compost
+32.77,58.08,12.72,Sandy,barley,K,Ammonium Sulphate
+34.51,69.14,31.61,Clay,sugarcane,N,Compost
+26.03,21.34,68.58,Red,groundnut,P,Ammonium Sulphate
+36.68,75.7,53.88,Black,groundnut,N,Super Phosphate
+36.89,54.75,79.8,Clay,cotton,P,Ammonium Sulphate
+14.88,14.83,38.35,Loamy,groundnut,K,DAP
+40.6,83.26,49.15,Sandy,rice,P,Ammonium Sulphate
+16.15,36.11,50.29,Red,groundnut,P,Potash
+27.44,53.45,84.03,Clay,sugarcane,K,Potash
+20.57,53.57,89.5,Clay,barley,P,Compost
+39.37,32.79,30.78,Sandy,rice,P,DAP
+35.86,27.7,51.64,Loamy,millet,P,Super Phosphate
+24.39,62.34,21.89,Sandy,cotton,K,Potash
+34.67,25.39,85.98,Black,wheat,K,Urea
+13.64,25.79,72.99,Black,wheat,K,DAP
+22.24,20.95,76.3,Sandy,maize,P,Potash
+35.71,55.23,58.37,Sandy,sugarcane,N,Compost
+31.18,36.56,79.24,Sandy,barley,N,Super Phosphate
+44.37,53.07,77.07,Red,millet,N,Potash
+21.64,34.41,73.77,Clay,millet,K,DAP
+26.78,34.07,53.08,Sandy,millet,P,Ammonium Sulphate
+16.99,46.39,38.67,Loamy,groundnut,N,Urea
+42.65,70.72,28.34,Clay,maize,P,Super Phosphate
+30.15,81.08,10.32,Sandy,barley,N,DAP
+23.5,76.25,72.37,Sandy,rice,P,Super Phosphate
+19.38,88.05,13.88,Black,sugarcane,P,Compost
+10.96,16.0,33.38,Red,barley,K,Potash
+31.69,85.11,88.88,Red,wheat,N,Urea
+24.35,43.18,55.5,Clay,sugarcane,N,Compost
+32.3,35.42,50.84,Clay,wheat,N,Potash
+16.42,47.91,20.02,Loamy,groundnut,P,Potash
+11.77,22.24,61.74,Black,cotton,N,Potash
+37.41,29.24,80.29,Loamy,sugarcane,P,Urea
+44.74,51.97,78.68,Red,sugarcane,P,Ammonium Sulphate
+13.2,50.2,46.25,Loamy,groundnut,P,Urea
+29.19,77.72,89.36,Red,maize,N,Super Phosphate
+10.74,54.68,29.06,Sandy,rice,N,Ammonium Sulphate
+30.14,79.18,19.64,Clay,rice,P,Potash
+34.75,47.43,26.68,Black,millet,P,Urea
+18.36,34.84,47.63,Red,groundnut,P,Ammonium Sulphate
+33.34,76.06,89.76,Sandy,maize,P,Potash
+17.91,39.79,83.34,Clay,sugarcane,N,Urea
+40.25,18.2,49.35,Red,sugarcane,N,Potash
+43.58,66.43,81.94,Loamy,millet,N,Ammonium Sulphate
+14.75,73.51,71.47,Clay,rice,N,DAP
+27.97,78.79,69.56,Loamy,millet,K,Compost
+27.06,66.1,48.44,Clay,sugarcane,K,Compost
+39.1,82.15,48.62,Loamy,rice,P,Compost
+43.26,15.77,51.11,Sandy,cotton,N,Potash
+26.72,24.59,28.7,Sandy,barley,K,Super Phosphate
+14.26,79.59,27.06,Clay,cotton,N,Potash
+41.12,55.95,48.89,Clay,cotton,N,Ammonium Sulphate
+18.8,78.6,11.49,Black,wheat,P,Compost
+41.76,57.23,27.01,Clay,groundnut,P,Compost
+13.28,33.6,22.68,Loamy,wheat,P,DAP
+41.96,17.15,17.5,Loamy,wheat,N,Compost
+10.35,66.93,12.66,Red,maize,N,Potash
+30.97,48.97,28.09,Loamy,millet,N,DAP
+36.52,27.8,30.62,Clay,barley,N,DAP
+31.41,11.63,19.98,Loamy,sugarcane,K,Ammonium Sulphate
+32.22,54.88,36.89,Red,groundnut,N,Potash
+10.08,36.09,66.21,Sandy,maize,K,Super Phosphate
+16.32,75.97,87.75,Black,groundnut,N,Potash
+11.48,57.16,21.78,Loamy,groundnut,K,Urea
+25.4,28.18,89.32,Black,barley,N,Compost
+16.14,81.35,74.65,Red,maize,P,Compost
+23.28,85.29,79.19,Sandy,cotton,N,Super Phosphate
+13.86,35.57,39.83,Black,cotton,P,Compost
+27.84,27.66,30.78,Sandy,rice,P,Urea
+41.88,43.38,58.03,Sandy,millet,N,Urea
+42.57,38.9,43.34,Red,cotton,P,DAP
+41.5,30.24,54.93,Red,maize,K,Potash
+18.7,36.35,84.82,Sandy,barley,N,Urea
+17.83,71.93,37.8,Sandy,millet,K,Ammonium Sulphate
+23.46,75.98,55.21,Red,maize,P,Urea
+18.91,83.56,21.49,Red,millet,P,Urea
+41.17,12.02,71.71,Loamy,wheat,K,Compost
+15.87,67.56,51.46,Black,wheat,P,DAP
+27.71,89.98,15.38,Loamy,barley,P,Potash
+23.37,21.95,23.23,Black,millet,K,Ammonium Sulphate
+27.36,60.81,83.86,Loamy,maize,N,Super Phosphate
+26.55,23.31,66.65,Clay,sugarcane,P,DAP
+23.41,21.13,47.45,Red,maize,N,DAP
+18.33,47.19,89.65,Black,sugarcane,P,Ammonium Sulphate
+24.13,59.76,88.8,Red,rice,P,Urea
+23.15,63.07,59.8,Loamy,sugarcane,P,Ammonium Sulphate
+38.35,45.39,65.03,Sandy,rice,N,Super Phosphate
+20.95,40.16,25.85,Clay,sugarcane,K,Super Phosphate
+34.7,20.38,47.65,Loamy,sugarcane,K,DAP
+37.04,40.65,77.77,Sandy,sugarcane,K,Potash
+41.52,64.49,43.03,Black,millet,K,Compost
+20.63,77.86,23.72,Black,wheat,K,Ammonium Sulphate
+22.84,77.41,41.78,Sandy,sugarcane,P,Urea
+29.77,27.38,52.14,Loamy,rice,N,DAP
+32.95,11.57,77.37,Red,groundnut,K,Ammonium Sulphate
+13.85,76.91,35.43,Clay,wheat,N,Urea
+26.2,68.97,64.3,Loamy,millet,P,Potash
+40.52,87.84,29.34,Red,sugarcane,K,Urea
+25.23,85.74,84.04,Loamy,wheat,P,Ammonium Sulphate
+16.41,55.46,66.82,Loamy,cotton,K,Potash
+17.37,55.43,65.22,Sandy,cotton,K,Ammonium Sulphate
+15.16,65.07,57.63,Sandy,groundnut,P,Ammonium Sulphate
+35.23,39.28,51.04,Clay,barley,N,Urea
+14.27,38.88,28.85,Red,cotton,N,Ammonium Sulphate
+33.51,55.71,12.88,Loamy,sugarcane,P,Compost
+43.11,15.59,20.95,Black,cotton,N,Potash
+34.64,36.98,49.91,Red,sugarcane,K,Urea
+10.11,68.55,47.71,Clay,wheat,K,Ammonium Sulphate
+20.65,68.02,23.4,Loamy,groundnut,P,Super Phosphate
+40.73,46.61,51.18,Sandy,wheat,P,Ammonium Sulphate
+29.72,31.6,48.69,Loamy,barley,P,Potash
+31.53,59.66,11.68,Red,cotton,K,DAP
+24.91,26.34,54.33,Sandy,groundnut,P,Ammonium Sulphate
+18.67,28.6,26.29,Clay,maize,K,DAP
+35.49,28.09,34.5,Black,rice,N,Compost
+39.22,76.12,13.8,Loamy,barley,K,Super Phosphate
+29.15,85.9,48.07,Red,barley,K,Ammonium Sulphate
+16.59,70.83,41.77,Clay,rice,K,Super Phosphate
+31.14,68.6,50.25,Clay,millet,N,Potash
+11.32,24.93,50.96,Loamy,sugarcane,N,Urea
+21.72,16.85,71.9,Black,rice,P,Compost
+14.92,77.22,75.1,Black,wheat,K,DAP
+16.2,80.46,50.64,Sandy,sugarcane,K,Potash
+14.9,55.18,71.72,Clay,cotton,P,Potash
+44.86,88.36,25.81,Loamy,rice,P,Urea
+44.86,56.36,40.87,Clay,barley,K,Potash
+14.32,25.56,10.83,Sandy,maize,K,Super Phosphate
+24.97,25.34,70.71,Loamy,cotton,P,Urea
+14.46,40.38,50.84,Sandy,wheat,P,Urea
+36.96,52.43,59.84,Clay,barley,P,Compost
+31.83,32.68,43.99,Loamy,sugarcane,P,Urea
+15.78,20.62,52.76,Red,rice,P,DAP
+18.36,30.51,43.77,Loamy,maize,P,Compost
+18.07,19.26,55.4,Red,groundnut,K,Compost
+23.46,61.84,12.53,Sandy,rice,K,DAP
+38.05,60.48,16.04,Black,rice,N,Compost
+18.67,36.62,50.69,Clay,millet,P,DAP
+27.49,27.08,62.39,Sandy,rice,N,DAP
+43.91,42.99,73.64,Red,wheat,K,Ammonium Sulphate
+27.38,70.48,44.44,Sandy,cotton,P,Urea
+44.27,85.3,65.23,Black,rice,N,Compost
+40.69,31.35,33.07,Red,maize,P,Super Phosphate
+40.82,45.66,36.11,Black,maize,N,Super Phosphate
+14.47,19.5,87.95,Sandy,maize,N,Super Phosphate
+19.22,35.85,60.77,Red,millet,N,Super Phosphate
+40.65,67.79,60.84,Sandy,groundnut,K,DAP
+41.23,53.22,42.98,Black,wheat,P,Urea
+26.58,45.69,77.3,Sandy,barley,P,Potash
+32.41,74.44,21.94,Sandy,groundnut,K,Ammonium Sulphate
+37.13,19.72,76.22,Loamy,sugarcane,K,DAP
+31.9,71.58,62.31,Clay,groundnut,N,Urea
+35.73,44.96,82.04,Sandy,groundnut,N,DAP
+33.38,89.42,17.58,Black,maize,K,Urea
+34.99,54.1,15.84,Red,rice,N,Urea
+28.89,42.49,31.34,Clay,barley,P,Urea
+30.07,46.35,39.17,Black,maize,N,Super Phosphate
+37.28,68.68,41.37,Clay,millet,N,Urea
+43.4,24.45,17.92,Black,rice,N,Super Phosphate
+39.46,87.31,67.96,Sandy,maize,P,Super Phosphate
+20.31,89.88,46.41,Sandy,wheat,P,Potash
+22.03,22.89,78.85,Red,cotton,N,Ammonium Sulphate
+21.89,16.42,52.18,Sandy,cotton,P,DAP
+35.94,29.65,66.81,Black,maize,K,Super Phosphate
+13.57,24.4,88.4,Black,groundnut,K,Potash
+10.7,46.05,47.42,Sandy,maize,N,Compost
+13.73,47.57,12.48,Black,maize,K,DAP
+40.96,32.28,29.51,Sandy,maize,K,DAP
+32.16,51.53,37.1,Sandy,rice,P,Urea
+33.05,38.26,46.78,Sandy,cotton,K,Ammonium Sulphate
+32.67,44.93,55.79,Loamy,maize,P,Ammonium Sulphate
+26.48,27.36,16.03,Red,groundnut,P,Super Phosphate
+15.6,88.1,83.41,Black,maize,K,Urea
+31.92,47.39,72.31,Loamy,groundnut,N,Potash
+30.21,58.24,42.3,Red,millet,P,Ammonium Sulphate
+14.8,40.04,81.0,Sandy,maize,P,Super Phosphate
+19.13,29.68,29.3,Red,wheat,N,Potash
+16.18,48.5,34.55,Sandy,millet,K,Urea
+22.17,72.29,24.85,Red,barley,K,Super Phosphate
+18.19,28.33,46.51,Sandy,barley,K,Compost
+31.8,81.68,22.92,Sandy,maize,N,Ammonium Sulphate
+19.13,41.47,13.24,Loamy,wheat,K,Ammonium Sulphate
+42.49,86.94,58.22,Black,rice,N,Ammonium Sulphate
+10.2,35.09,56.29,Loamy,rice,P,DAP
+30.4,77.98,50.6,Sandy,maize,P,DAP
+10.62,75.05,12.38,Black,maize,K,Compost
+17.66,41.61,19.53,Red,rice,P,DAP
+35.85,31.77,16.96,Red,rice,N,Super Phosphate
+31.67,83.58,14.72,Clay,millet,N,Super Phosphate
+29.12,83.55,11.39,Red,sugarcane,K,Compost
+13.68,88.98,57.48,Clay,groundnut,P,Potash
+34.08,62.07,17.33,Loamy,millet,N,Urea
+13.77,35.39,28.9,Red,groundnut,P,DAP
+25.2,39.71,23.4,Loamy,sugarcane,P,Super Phosphate
+17.54,35.27,87.61,Red,millet,N,Urea
+12.49,33.31,46.91,Black,groundnut,N,Potash
+22.14,53.73,89.68,Loamy,groundnut,K,Compost
+43.79,62.27,72.33,Clay,rice,N,Urea
+37.67,73.81,57.23,Sandy,cotton,N,Super Phosphate
+22.63,74.62,80.3,Black,groundnut,P,Super Phosphate
+17.96,38.06,38.57,Red,rice,N,Ammonium Sulphate
+32.49,18.73,83.55,Red,sugarcane,K,Ammonium Sulphate
+40.2,51.59,29.39,Sandy,maize,P,Ammonium Sulphate
+42.34,82.92,54.2,Loamy,sugarcane,K,Super Phosphate
+23.96,20.96,72.5,Clay,cotton,K,Potash
+40.6,19.71,56.17,Black,wheat,P,Compost
+35.35,65.9,39.03,Loamy,barley,P,Ammonium Sulphate
+13.95,20.97,48.9,Loamy,barley,N,Super Phosphate
+38.2,66.67,85.61,Clay,groundnut,K,Ammonium Sulphate
+14.89,52.84,49.02,Clay,maize,K,Urea
+43.54,26.79,48.99,Clay,millet,P,Ammonium Sulphate
+36.21,78.37,40.45,Black,maize,N,Potash
+32.49,86.87,57.81,Red,maize,P,DAP
+30.38,36.47,10.82,Loamy,groundnut,N,Urea
+24.68,62.82,21.56,Black,wheat,N,Ammonium Sulphate
+40.77,39.52,48.15,Black,cotton,P,Urea
+32.02,32.48,17.9,Red,sugarcane,K,Potash
+30.32,82.52,77.29,Black,rice,N,Super Phosphate
+41.18,58.24,80.82,Sandy,millet,K,Potash
+26.22,69.62,57.99,Loamy,rice,K,Compost
+44.21,24.66,32.52,Clay,maize,K,DAP
+23.38,10.74,87.07,Red,cotton,N,DAP
+13.46,27.44,56.85,Sandy,wheat,P,Ammonium Sulphate
+30.97,41.44,63.7,Red,maize,K,DAP
+15.96,55.3,40.92,Loamy,barley,K,Ammonium Sulphate
+24.99,11.91,65.97,Loamy,maize,K,Ammonium Sulphate
+41.07,71.0,29.86,Red,maize,N,Compost
+39.01,24.41,53.35,Sandy,maize,N,Ammonium Sulphate
+23.25,64.92,40.06,Black,wheat,P,Super Phosphate
+34.93,64.81,58.58,Sandy,maize,K,Compost
+25.77,61.99,86.1,Red,wheat,P,Potash
+20.45,41.51,52.98,Black,maize,P,Ammonium Sulphate
+42.11,84.81,30.84,Sandy,millet,K,DAP
+26.76,16.89,29.83,Black,wheat,N,Potash
+26.9,66.74,86.5,Sandy,sugarcane,K,Potash
+44.99,82.46,65.29,Red,maize,N,Super Phosphate
+23.01,44.6,85.89,Loamy,millet,K,Urea
+16.84,78.36,20.86,Red,rice,K,DAP
+44.84,75.74,13.52,Black,barley,P,Compost
+32.57,41.08,41.79,Sandy,wheat,K,Potash
+37.73,43.41,72.37,Sandy,groundnut,P,Super Phosphate
+29.36,41.85,34.96,Loamy,maize,K,Compost
+29.06,45.77,87.34,Loamy,rice,P,Potash
+19.5,30.02,49.44,Black,rice,P,Super Phosphate
+31.52,80.63,65.78,Black,maize,P,Super Phosphate
+29.15,56.23,45.69,Black,sugarcane,N,Ammonium Sulphate
+24.14,51.28,76.85,Sandy,barley,K,Compost
+23.68,67.89,74.1,Red,groundnut,K,Urea
+10.99,27.25,82.47,Loamy,wheat,K,Super Phosphate
+26.0,33.01,38.04,Clay,sugarcane,P,Super Phosphate
+32.23,89.05,58.66,Sandy,groundnut,N,Urea
+36.03,48.34,34.97,Loamy,rice,N,Ammonium Sulphate
+21.64,23.29,86.77,Clay,millet,P,Potash
+13.27,53.23,73.73,Loamy,barley,K,Ammonium Sulphate
+18.83,68.58,42.94,Red,wheat,N,Ammonium Sulphate
+19.52,61.44,87.26,Loamy,barley,N,DAP
+35.16,81.0,24.03,Black,cotton,N,DAP
+17.24,45.22,68.35,Sandy,rice,N,Potash
+22.22,49.08,40.23,Black,groundnut,P,Compost
+22.61,87.53,51.05,Loamy,cotton,N,Ammonium Sulphate
+41.41,60.2,44.83,Red,sugarcane,N,Ammonium Sulphate
+20.14,80.97,25.46,Loamy,maize,N,Urea
+17.12,51.47,56.13,Loamy,rice,N,DAP
+14.78,36.56,41.82,Sandy,wheat,K,Ammonium Sulphate
+30.43,58.68,19.75,Loamy,rice,P,Compost
+33.61,35.86,50.65,Clay,barley,K,Urea
+12.93,28.78,31.78,Clay,cotton,P,Urea
+40.32,48.81,11.89,Sandy,rice,N,Ammonium Sulphate
+10.78,76.36,45.25,Red,sugarcane,P,Super Phosphate
+38.27,48.4,24.63,Red,barley,P,Urea
+27.58,79.84,15.81,Clay,rice,N,Potash
+29.13,82.31,42.3,Red,wheat,N,Ammonium Sulphate
+14.39,83.15,74.43,Red,rice,P,Urea
+18.53,57.9,76.74,Red,maize,K,DAP
+35.27,61.86,89.07,Black,wheat,N,Super Phosphate
+32.1,58.19,42.46,Clay,barley,N,Potash
+18.68,47.26,89.95,Clay,sugarcane,P,Compost
+15.64,48.99,31.49,Clay,groundnut,P,Compost
+19.61,24.03,57.07,Clay,groundnut,K,Potash
+33.91,65.44,82.38,Sandy,cotton,K,Compost
+20.02,13.23,41.45,Clay,maize,N,Super Phosphate
+17.27,84.44,41.73,Loamy,maize,N,Ammonium Sulphate
+18.54,57.61,84.0,Sandy,cotton,N,Ammonium Sulphate
+18.76,58.59,89.16,Red,cotton,K,Compost
+27.0,56.97,22.91,Sandy,sugarcane,K,Compost
+30.28,25.78,60.82,Sandy,sugarcane,N,Ammonium Sulphate
+16.39,24.03,66.95,Black,sugarcane,P,Urea
+28.57,11.04,70.31,Sandy,millet,P,Potash
+25.5,22.36,46.15,Loamy,barley,K,Ammonium Sulphate
+22.03,76.54,71.31,Loamy,millet,K,Potash
+20.54,29.07,26.18,Black,groundnut,N,DAP
+19.85,88.69,61.04,Loamy,rice,K,Super Phosphate
+16.93,25.27,13.06,Black,cotton,P,Super Phosphate
+15.77,82.36,89.41,Sandy,barley,N,Urea
+40.52,65.85,56.77,Black,maize,P,Ammonium Sulphate
+42.41,83.27,64.8,Black,millet,K,Urea
+23.54,61.71,34.97,Loamy,millet,K,Super Phosphate
+26.48,31.48,60.01,Black,cotton,N,DAP
+35.49,62.76,13.67,Loamy,maize,N,Compost
+37.39,32.4,23.1,Red,maize,P,DAP
+40.66,22.76,66.92,Red,rice,N,Potash
+35.54,80.03,13.51,Red,wheat,P,Compost
+24.45,32.15,84.88,Black,barley,P,Ammonium Sulphate
+15.49,18.88,39.38,Red,sugarcane,P,Urea
+37.3,68.5,69.05,Red,millet,P,Ammonium Sulphate
+37.06,75.7,32.24,Clay,groundnut,P,Compost
+39.1,70.96,60.3,Red,cotton,N,DAP
+40.44,81.84,33.97,Red,barley,K,Urea
+28.08,15.91,84.32,Loamy,barley,K,DAP
+39.64,34.26,23.71,Loamy,barley,P,Compost
+14.11,14.8,46.51,Clay,cotton,N,Super Phosphate
+18.66,83.97,83.56,Loamy,sugarcane,K,Potash
+19.12,49.92,85.14,Clay,barley,N,Ammonium Sulphate
+21.83,11.76,65.35,Loamy,barley,K,Compost
+42.61,61.62,10.16,Sandy,cotton,K,DAP
+39.18,55.76,27.53,Clay,maize,N,Potash
+22.3,49.89,58.2,Clay,wheat,P,Ammonium Sulphate
+42.26,61.24,21.7,Sandy,groundnut,N,Ammonium Sulphate
+37.32,49.58,75.88,Clay,wheat,N,Potash
+30.53,79.15,65.69,Black,maize,N,Super Phosphate
+16.78,67.97,67.24,Sandy,cotton,P,Ammonium Sulphate
+12.43,67.63,51.81,Loamy,barley,N,Compost
+30.4,54.08,45.11,Black,cotton,N,Potash
+40.97,29.88,21.71,Red,groundnut,K,Urea
+14.96,33.72,42.79,Red,sugarcane,K,Compost
+22.09,11.19,63.52,Black,wheat,K,Super Phosphate
+21.97,47.3,64.32,Sandy,millet,P,Ammonium Sulphate
+25.48,79.24,61.27,Clay,barley,K,Super Phosphate
+17.81,62.06,43.15,Clay,wheat,P,Super Phosphate
+32.72,39.94,83.34,Red,groundnut,P,Compost
+13.58,42.61,64.77,Black,barley,N,Potash
+27.91,90.0,22.03,Loamy,groundnut,N,Super Phosphate
+20.47,15.01,24.43,Clay,cotton,K,Potash
+43.16,45.58,16.0,Red,maize,N,Compost
+38.09,54.84,58.5,Red,millet,N,Urea
+39.17,30.85,86.86,Red,wheat,N,Potash
+16.23,66.44,68.37,Sandy,groundnut,P,DAP
+36.34,32.76,67.12,Sandy,barley,K,DAP
+35.09,84.39,45.09,Sandy,barley,P,Potash
+27.43,53.69,45.53,Loamy,sugarcane,P,DAP
+13.21,77.67,65.1,Loamy,cotton,K,Super Phosphate
+23.22,89.0,36.79,Clay,cotton,P,Urea
+31.0,38.19,64.58,Loamy,maize,P,Ammonium Sulphate
+32.22,76.28,54.99,Black,wheat,N,Super Phosphate
+36.05,54.63,54.93,Clay,groundnut,P,Super Phosphate
+11.14,84.04,76.63,Black,cotton,K,DAP
+15.87,64.09,45.93,Loamy,sugarcane,K,Potash
+36.08,68.56,12.68,Loamy,groundnut,P,Potash
+11.54,21.91,33.24,Red,millet,P,Potash
+40.82,10.17,86.93,Black,maize,K,Super Phosphate
+34.53,43.24,41.77,Loamy,groundnut,N,Compost
+26.03,63.35,88.26,Clay,rice,K,Urea
+16.29,39.58,50.57,Black,sugarcane,N,Ammonium Sulphate
+25.47,26.18,35.44,Loamy,barley,K,DAP
+29.95,24.06,30.5,Black,rice,K,Potash
+30.07,29.65,22.35,Clay,cotton,P,DAP
+34.22,38.57,65.87,Loamy,groundnut,N,Compost
+37.77,28.83,51.92,Sandy,maize,K,Super Phosphate
+17.66,76.87,70.18,Clay,millet,N,Urea
+44.06,89.0,14.08,Sandy,barley,N,Urea
+31.19,33.86,47.31,Loamy,rice,N,Urea
+10.82,52.0,47.23,Sandy,rice,K,Urea
+30.2,82.79,59.39,Red,millet,K,Super Phosphate
+41.68,75.94,15.57,Red,maize,K,Ammonium Sulphate
+16.19,76.68,54.64,Clay,rice,N,DAP
+11.07,11.28,70.14,Black,wheat,K,Super Phosphate
+23.28,66.49,88.4,Loamy,maize,P,Ammonium Sulphate
+27.54,33.73,52.78,Clay,maize,N,Compost
+33.72,66.26,30.08,Red,sugarcane,K,Potash
+22.77,79.57,67.11,Clay,maize,P,Urea
+40.76,37.59,34.64,Black,barley,P,Urea
+17.57,32.42,78.43,Loamy,rice,K,Potash
+25.44,55.65,76.66,Clay,cotton,N,Urea
+39.38,12.68,34.33,Sandy,maize,P,DAP
+38.68,23.94,84.23,Red,maize,K,Ammonium Sulphate
+12.86,83.11,52.97,Loamy,cotton,K,DAP
+25.96,16.05,56.09,Loamy,millet,P,Super Phosphate
+18.79,63.68,17.28,Loamy,cotton,K,Urea
+40.04,72.68,46.73,Sandy,sugarcane,P,DAP
+20.4,62.13,46.83,Clay,cotton,K,DAP
+16.4,82.62,55.25,Clay,rice,K,Urea
+17.41,25.09,71.06,Sandy,wheat,K,Compost
+41.21,61.69,79.17,Loamy,cotton,K,Ammonium Sulphate
+41.06,14.62,27.47,Sandy,maize,N,DAP
+37.6,27.79,54.92,Red,sugarcane,N,Ammonium Sulphate
+16.83,19.57,24.32,Sandy,rice,N,Ammonium Sulphate
+18.6,74.57,25.3,Clay,barley,N,DAP
+27.62,42.24,47.45,Clay,sugarcane,K,DAP
+42.05,67.44,81.11,Black,sugarcane,P,Ammonium Sulphate
+23.45,14.88,57.6,Loamy,groundnut,P,Compost
+39.73,79.99,79.52,Black,cotton,P,Ammonium Sulphate
+21.48,54.86,47.33,Loamy,barley,N,Potash
+34.42,62.03,63.16,Red,wheat,N,Potash
+35.01,58.33,38.51,Sandy,rice,K,Super Phosphate
+44.24,12.56,76.9,Black,barley,P,Super Phosphate
+11.27,70.3,14.5,Clay,barley,P,Urea
+12.13,53.45,85.34,Sandy,sugarcane,P,Potash
+19.02,85.87,44.06,Red,barley,P,Super Phosphate
+14.65,25.19,30.85,Clay,cotton,P,Urea
+35.95,51.36,82.76,Clay,barley,N,DAP
+17.67,87.14,45.21,Sandy,maize,P,Potash
+30.56,28.74,38.52,Clay,groundnut,P,Ammonium Sulphate
+15.01,44.16,82.69,Black,sugarcane,P,Potash
+15.49,33.75,65.09,Loamy,millet,N,Compost
+10.37,28.81,29.3,Clay,maize,P,DAP
+18.23,87.59,16.37,Black,groundnut,P,Urea
+17.26,87.54,72.43,Clay,barley,K,Super Phosphate
+32.61,88.99,15.89,Loamy,cotton,N,Super Phosphate
+33.44,14.97,72.76,Red,wheat,K,Potash
+40.83,82.98,57.43,Black,millet,N,Potash
+13.61,22.9,36.99,Black,cotton,K,Ammonium Sulphate
+23.56,13.83,47.6,Red,groundnut,N,Urea
+24.63,58.03,68.01,Red,rice,N,Urea
+39.33,14.6,46.82,Red,groundnut,P,Compost
+14.13,31.56,69.96,Black,barley,K,Compost
+10.05,46.79,78.09,Sandy,cotton,K,Compost
+31.12,84.75,39.37,Sandy,cotton,K,DAP
+25.56,10.54,58.02,Clay,wheat,N,Compost
+14.17,82.04,32.61,Red,wheat,N,Compost
+23.87,81.0,74.4,Loamy,barley,K,Compost
+10.27,66.87,10.33,Clay,rice,P,Ammonium Sulphate
+22.76,76.48,79.14,Sandy,rice,N,Super Phosphate
+34.31,47.73,81.26,Clay,cotton,K,Compost
+30.27,51.68,15.5,Loamy,groundnut,K,DAP
+40.91,84.99,41.95,Loamy,wheat,K,Super Phosphate
+43.42,46.16,13.69,Clay,wheat,K,Super Phosphate
+23.57,89.67,81.5,Loamy,millet,N,Potash
+15.71,84.43,28.56,Clay,millet,K,Potash
+16.68,48.46,38.15,Red,wheat,N,Potash
+40.41,54.51,30.31,Red,maize,P,Ammonium Sulphate
+18.63,71.6,15.35,Sandy,groundnut,K,Potash
+36.5,80.45,40.61,Black,sugarcane,K,Ammonium Sulphate
+29.21,52.93,29.63,Red,cotton,N,Potash
+24.24,28.66,57.39,Sandy,maize,P,Ammonium Sulphate
+26.91,85.47,64.91,Sandy,groundnut,P,Super Phosphate
+33.31,41.35,86.26,Clay,maize,P,Potash
+36.28,78.85,63.04,Red,maize,K,DAP
+14.1,83.04,61.22,Loamy,sugarcane,N,Urea
+11.53,51.88,20.84,Clay,millet,P,DAP
+20.61,89.69,65.11,Sandy,cotton,N,Urea
+10.23,43.26,12.7,Loamy,rice,K,Compost
+20.8,76.05,46.3,Red,sugarcane,N,DAP
+21.04,29.3,85.73,Clay,barley,K,Urea
+13.48,55.2,42.89,Clay,maize,N,Compost
+30.32,27.65,65.34,Red,cotton,K,Compost
+13.19,77.88,23.14,Sandy,sugarcane,P,Compost
+10.4,33.73,32.85,Sandy,wheat,K,Compost
+41.27,78.22,19.42,Black,sugarcane,N,Super Phosphate
+26.24,34.7,71.19,Red,millet,N,Ammonium Sulphate
+35.34,69.56,66.05,Loamy,barley,P,DAP
+25.89,31.34,72.64,Clay,cotton,N,Super Phosphate
+18.85,63.75,45.53,Red,millet,P,DAP
+40.44,20.22,15.1,Sandy,maize,P,DAP
+15.05,43.73,51.19,Black,groundnut,N,Super Phosphate
+23.09,63.75,15.06,Black,groundnut,N,Super Phosphate
+30.8,83.59,60.39,Loamy,maize,K,Ammonium Sulphate
+18.62,58.56,87.31,Black,cotton,N,Super Phosphate
+12.68,86.65,62.76,Clay,groundnut,K,Compost
+10.1,53.52,78.98,Red,groundnut,N,DAP
+33.7,52.79,77.13,Sandy,maize,N,Potash
+38.69,49.0,15.08,Loamy,maize,P,Super Phosphate
+11.61,52.47,87.78,Sandy,maize,P,Super Phosphate
+28.05,29.64,65.85,Red,barley,P,Urea
+36.46,62.29,27.08,Loamy,barley,N,Urea
+17.27,84.2,64.72,Loamy,maize,P,DAP
+37.05,64.28,11.92,Sandy,millet,N,Ammonium Sulphate
+10.21,40.43,54.4,Sandy,groundnut,K,Urea
+21.24,88.64,77.06,Loamy,groundnut,N,Urea
+35.44,14.16,31.13,Clay,wheat,K,Ammonium Sulphate
+18.74,25.75,38.47,Red,cotton,N,Urea
+24.32,29.96,30.79,Black,maize,P,Ammonium Sulphate
+39.13,53.29,63.07,Clay,millet,P,Super Phosphate
+34.16,33.16,50.59,Sandy,groundnut,P,Ammonium Sulphate
+29.96,22.52,12.07,Clay,barley,P,Potash
+24.79,44.56,29.34,Sandy,wheat,K,Urea
+14.93,80.39,42.34,Sandy,cotton,K,DAP
+19.85,42.63,17.69,Loamy,cotton,P,Potash
+32.88,85.47,31.88,Loamy,maize,N,Compost
+24.58,79.95,18.48,Red,maize,N,Potash
+18.81,52.84,16.38,Loamy,cotton,N,Urea
+32.7,28.58,18.15,Clay,millet,N,DAP
+33.49,44.08,22.98,Sandy,barley,P,Urea
+33.18,31.54,13.25,Sandy,cotton,N,Potash
+33.5,84.84,43.77,Clay,wheat,K,Potash
+27.45,52.96,41.56,Sandy,maize,P,Super Phosphate
+27.91,13.2,60.12,Sandy,rice,N,Ammonium Sulphate
+41.95,89.27,18.49,Sandy,sugarcane,N,DAP
+15.42,69.06,87.64,Red,rice,N,Super Phosphate
+29.76,19.79,85.2,Loamy,maize,N,DAP
+43.37,51.9,80.2,Red,maize,P,Compost
+24.42,53.12,49.98,Sandy,millet,P,Ammonium Sulphate
+40.53,81.43,75.04,Clay,millet,P,Ammonium Sulphate
+26.72,84.74,60.11,Clay,groundnut,P,Ammonium Sulphate
+37.64,26.89,14.49,Clay,millet,K,Urea
+30.84,64.02,28.58,Black,maize,N,Potash
+14.66,65.02,84.37,Loamy,cotton,K,Potash
+17.36,17.17,55.85,Loamy,cotton,K,Urea
+42.65,73.1,73.47,Red,millet,K,DAP
+13.06,23.84,72.81,Loamy,millet,N,Compost
+34.23,36.01,18.54,Red,groundnut,N,Super Phosphate
+25.77,72.97,68.67,Black,millet,P,Potash
+24.25,35.12,80.94,Clay,rice,P,Compost
+35.79,22.18,18.79,Black,maize,P,DAP
+34.96,65.48,19.15,Black,maize,K,Compost
+33.99,23.96,37.9,Red,sugarcane,K,Ammonium Sulphate
+41.85,33.89,47.21,Sandy,sugarcane,N,DAP
+15.15,51.65,73.79,Loamy,millet,P,DAP
+43.16,77.98,69.59,Clay,groundnut,K,DAP
+24.73,38.28,36.14,Sandy,maize,K,Ammonium Sulphate
+44.32,26.99,31.05,Loamy,cotton,K,Ammonium Sulphate
+15.66,33.47,57.04,Sandy,barley,N,Super Phosphate
+16.19,64.75,26.93,Clay,millet,N,DAP
+26.66,81.67,85.24,Red,rice,K,Potash
+12.53,72.39,70.73,Black,groundnut,K,Potash
+40.35,70.15,14.05,Clay,millet,K,DAP
+34.87,51.82,57.69,Sandy,wheat,P,Compost
+44.02,41.37,53.26,Red,cotton,N,Potash
+29.34,82.13,31.48,Black,groundnut,N,Super Phosphate
+11.85,43.27,88.45,Sandy,rice,K,Ammonium Sulphate
+16.08,45.41,78.9,Black,maize,P,Urea
+21.28,17.45,82.11,Red,maize,P,Super Phosphate
+24.6,42.79,43.94,Black,cotton,N,DAP
+36.69,14.84,46.08,Sandy,wheat,P,Super Phosphate
+24.69,63.71,62.12,Black,sugarcane,K,Ammonium Sulphate
+22.1,74.21,37.28,Clay,barley,P,DAP
+11.96,43.62,36.82,Sandy,barley,K,Potash
+20.73,39.44,60.43,Red,maize,P,DAP
+19.98,25.56,18.33,Black,groundnut,P,Compost
+26.6,42.17,47.51,Loamy,groundnut,P,Potash
+24.63,26.79,58.13,Red,barley,K,Ammonium Sulphate
+20.97,17.49,44.0,Clay,barley,N,Urea
+41.49,32.01,85.08,Black,maize,N,Super Phosphate
+28.18,71.88,36.84,Clay,millet,K,DAP
+17.89,24.48,27.31,Red,millet,N,Ammonium Sulphate
+22.08,41.97,35.5,Black,maize,K,DAP
+13.66,77.51,80.48,Clay,sugarcane,K,DAP
+40.33,44.16,62.54,Loamy,millet,P,Compost
+27.02,18.4,88.84,Sandy,cotton,K,Potash
+28.6,10.58,41.79,Black,millet,P,DAP
+25.17,30.61,28.32,Clay,barley,P,Ammonium Sulphate
+40.88,37.98,37.61,Red,sugarcane,P,Urea
+22.92,38.14,45.22,Sandy,cotton,N,Super Phosphate
+19.91,21.82,43.15,Clay,sugarcane,P,Ammonium Sulphate
+44.89,26.28,42.56,Sandy,groundnut,N,Compost
+25.32,17.15,65.79,Loamy,barley,K,Super Phosphate
+32.27,51.94,32.92,Red,cotton,P,DAP
+29.64,69.77,84.92,Red,millet,K,Super Phosphate
+12.32,30.41,20.91,Black,rice,N,Super Phosphate
+12.12,23.9,58.72,Black,wheat,K,Urea
+16.22,47.25,38.15,Black,maize,K,Urea
+27.3,74.15,46.92,Loamy,millet,K,Compost
+11.89,17.52,47.16,Loamy,barley,K,Urea
+18.25,17.2,75.76,Red,rice,N,Super Phosphate
+18.7,88.25,12.98,Clay,sugarcane,N,DAP
+44.21,70.06,24.4,Red,cotton,N,Compost
+28.71,32.0,37.09,Clay,maize,N,Potash
+30.62,87.48,78.34,Loamy,sugarcane,P,Compost
+39.62,55.45,58.29,Loamy,rice,K,Super Phosphate
+10.7,74.44,21.43,Black,millet,N,Super Phosphate
+11.35,34.74,11.24,Red,barley,P,Super Phosphate
+10.16,66.57,31.45,Black,millet,N,Potash
+36.89,78.26,17.13,Loamy,millet,N,Super Phosphate
+39.99,43.34,84.88,Red,groundnut,K,Urea
+42.49,25.86,26.12,Clay,wheat,K,DAP
+28.51,66.08,26.12,Red,sugarcane,N,Super Phosphate
+28.07,24.35,13.32,Sandy,sugarcane,P,Urea
+10.14,19.9,78.69,Clay,wheat,P,Super Phosphate
+34.5,64.25,73.46,Loamy,maize,N,Urea
+38.82,23.44,34.89,Black,maize,K,Potash
+44.58,24.43,33.52,Sandy,maize,N,Super Phosphate
+30.36,30.9,55.61,Black,wheat,K,Urea
+15.15,16.41,34.83,Black,wheat,K,Urea
+31.18,80.65,12.56,Clay,sugarcane,P,Potash
+36.85,79.72,83.69,Black,sugarcane,N,Potash
+28.62,51.12,35.03,Red,sugarcane,K,Super Phosphate
+37.68,16.58,72.42,Black,rice,P,DAP
+28.76,14.2,14.06,Sandy,sugarcane,N,Urea
+27.66,59.69,79.5,Black,cotton,P,Potash
+14.35,62.52,65.12,Red,millet,N,Ammonium Sulphate
+18.1,63.14,15.71,Clay,rice,K,Compost
+35.39,17.92,54.74,Loamy,groundnut,P,Super Phosphate
+30.95,61.85,85.31,Sandy,millet,K,Ammonium Sulphate
+40.78,67.35,68.83,Red,groundnut,N,DAP
+30.18,43.34,82.02,Clay,barley,P,DAP
+25.63,72.32,20.66,Sandy,sugarcane,K,Compost
+38.51,48.39,10.69,Red,wheat,P,Urea
+42.67,38.38,10.49,Clay,millet,K,Ammonium Sulphate
+44.82,27.06,68.45,Red,cotton,K,Potash
+17.94,14.37,85.67,Red,cotton,P,DAP
+17.97,30.57,33.55,Clay,millet,K,Potash
+28.02,64.8,81.24,Sandy,groundnut,N,Ammonium Sulphate
+16.49,45.9,60.51,Loamy,cotton,N,Compost
+35.95,26.62,66.92,Clay,barley,N,Super Phosphate
+35.99,31.89,54.44,Sandy,wheat,N,DAP
+22.34,43.48,62.25,Red,rice,P,Urea
+44.24,35.65,18.24,Loamy,maize,K,Potash
+12.96,45.77,40.09,Red,cotton,N,Potash
+18.51,72.83,85.43,Red,maize,P,Potash
+26.46,55.0,80.17,Clay,millet,K,Ammonium Sulphate
+15.66,89.2,74.77,Clay,maize,K,Compost
+17.7,73.64,69.8,Sandy,sugarcane,N,Super Phosphate
+36.84,30.65,45.48,Red,cotton,P,DAP
+19.25,39.92,31.73,Red,barley,K,Super Phosphate
+35.31,53.83,51.93,Sandy,rice,K,Ammonium Sulphate
+22.43,67.6,55.3,Red,rice,P,Compost
+19.02,43.87,43.63,Clay,cotton,N,Super Phosphate
+16.09,35.05,20.48,Clay,rice,N,Potash
+37.47,87.24,30.63,Black,wheat,P,Ammonium Sulphate
+12.04,30.37,78.7,Sandy,maize,P,Super Phosphate
+32.75,14.91,53.35,Clay,maize,P,Potash
+13.21,48.45,31.16,Red,millet,N,Urea
+39.63,30.24,46.71,Clay,groundnut,K,Super Phosphate
+23.27,45.47,38.41,Sandy,groundnut,P,Super Phosphate
+43.54,26.04,13.47,Loamy,sugarcane,P,Urea
+14.52,55.82,86.68,Loamy,rice,K,Super Phosphate
+31.52,33.52,73.35,Clay,groundnut,K,Ammonium Sulphate
+13.61,68.4,31.21,Black,millet,P,Potash
+28.06,89.59,70.41,Black,barley,K,Compost
+33.4,29.91,37.52,Red,barley,P,Urea
+31.81,68.91,61.01,Sandy,wheat,N,Compost
+41.66,64.63,87.87,Red,cotton,K,Urea
+10.09,83.01,83.49,Sandy,millet,N,DAP
+37.98,73.15,35.07,Sandy,millet,K,Potash
+19.63,13.97,22.96,Black,millet,N,Compost
+33.33,41.93,78.62,Red,groundnut,N,Compost
+10.9,16.61,52.9,Black,barley,N,Urea
+17.47,53.71,61.16,Clay,cotton,P,Urea
+14.24,70.43,15.09,Black,rice,N,Super Phosphate
+23.7,56.89,18.75,Red,maize,P,Urea
+26.97,18.16,44.95,Sandy,barley,K,Urea
+44.58,39.05,16.75,Red,groundnut,K,Potash
+31.07,31.09,75.35,Black,millet,N,Ammonium Sulphate
+30.97,15.54,76.68,Sandy,cotton,K,DAP
+30.94,85.65,64.47,Loamy,groundnut,P,Compost
+42.22,48.45,24.5,Black,sugarcane,K,Ammonium Sulphate
+40.3,27.19,72.61,Red,sugarcane,P,Potash
+38.24,44.95,60.1,Red,maize,K,Compost
+13.81,66.49,44.39,Loamy,barley,K,Ammonium Sulphate
+34.35,16.88,87.31,Black,wheat,P,Potash
+31.92,74.59,57.03,Black,cotton,N,Compost
+28.1,14.84,36.63,Black,barley,P,Urea
+44.24,82.02,42.21,Red,maize,P,DAP
+30.39,73.4,51.66,Black,wheat,K,DAP
+26.83,40.24,68.04,Loamy,barley,N,DAP
+28.06,49.42,18.71,Clay,groundnut,P,Ammonium Sulphate
+29.5,63.88,12.05,Black,millet,N,Potash
+26.82,25.9,80.93,Sandy,groundnut,N,DAP
+41.27,36.06,26.81,Sandy,wheat,N,Urea
+20.03,87.86,39.82,Sandy,rice,K,DAP
+42.54,50.53,17.15,Red,maize,N,Ammonium Sulphate
+33.18,47.08,80.22,Clay,maize,K,Compost
+34.86,63.2,35.56,Sandy,barley,P,Potash
+28.53,68.66,26.32,Sandy,wheat,N,DAP
+15.23,25.31,87.0,Clay,millet,K,Urea
+23.58,33.62,19.63,Red,barley,P,Compost
+28.49,39.66,20.54,Black,wheat,K,Urea
+41.16,52.19,60.77,Black,barley,K,Super Phosphate
+38.92,60.02,51.76,Black,maize,K,Compost
+28.49,29.83,44.25,Clay,rice,N,Super Phosphate
+24.32,77.21,57.07,Black,wheat,P,DAP
+38.1,87.08,57.17,Sandy,sugarcane,K,Compost
+26.39,51.89,15.05,Black,millet,K,Super Phosphate
+18.04,18.46,42.49,Sandy,rice,K,Super Phosphate
+19.51,23.47,37.3,Sandy,cotton,N,DAP
+28.06,64.21,44.81,Clay,groundnut,P,Urea
+30.37,52.88,52.63,Red,sugarcane,P,Ammonium Sulphate
+38.4,21.93,31.02,Black,cotton,K,Potash
+15.17,27.54,55.4,Loamy,maize,K,Compost
+21.68,33.48,41.14,Loamy,barley,P,Ammonium Sulphate
+38.59,50.61,49.52,Sandy,rice,P,Ammonium Sulphate
+31.23,42.63,83.44,Red,groundnut,P,DAP
+22.87,86.74,54.49,Red,maize,K,Urea
+11.03,81.54,60.51,Loamy,rice,K,Ammonium Sulphate
+15.79,75.29,46.91,Red,sugarcane,N,DAP
+16.44,55.6,49.16,Red,sugarcane,N,Ammonium Sulphate
+39.05,67.22,44.62,Clay,maize,P,Urea
+14.75,44.18,27.3,Black,wheat,N,Ammonium Sulphate
+14.5,80.09,89.19,Red,rice,K,Compost
+18.36,56.43,20.88,Loamy,barley,N,DAP
+22.08,80.92,63.52,Clay,rice,N,DAP
+43.31,82.96,44.21,Red,rice,K,Urea
+17.4,73.08,25.12,Clay,rice,N,Super Phosphate
+26.06,51.0,29.09,Loamy,millet,K,Super Phosphate
+10.75,64.78,13.01,Loamy,groundnut,N,Super Phosphate
+22.51,83.98,84.88,Clay,groundnut,K,Compost
+32.66,72.13,28.84,Black,rice,P,Urea
+21.13,10.47,89.8,Sandy,cotton,K,Compost
+23.31,49.08,76.55,Red,maize,P,Super Phosphate
+37.49,34.18,60.48,Red,cotton,K,Potash
+13.16,46.48,44.77,Sandy,rice,N,Ammonium Sulphate
+17.52,76.58,86.41,Loamy,groundnut,N,Urea
+19.79,29.97,37.85,Sandy,maize,N,Potash
+13.01,53.37,49.01,Black,millet,P,Super Phosphate
+21.62,16.75,37.27,Loamy,wheat,N,Super Phosphate
+23.67,64.51,11.09,Black,millet,N,Compost
+30.78,40.48,52.67,Red,barley,N,Urea
+35.12,43.65,26.79,Loamy,barley,K,Compost
+38.34,62.3,35.24,Clay,wheat,P,Urea
+23.44,21.27,89.29,Black,groundnut,N,DAP
+42.65,39.11,11.0,Clay,cotton,N,Potash
+17.89,89.04,34.36,Red,wheat,P,DAP
+18.49,20.62,24.93,Clay,millet,N,Ammonium Sulphate
+37.32,69.29,75.38,Black,cotton,P,Compost
+36.02,42.62,17.03,Red,sugarcane,P,Compost
+20.44,27.51,58.01,Sandy,maize,K,Potash
+26.52,63.6,83.3,Loamy,wheat,P,Potash
+15.85,32.66,14.49,Loamy,millet,K,DAP
+28.55,43.95,37.44,Sandy,millet,K,Compost
+39.89,36.26,30.05,Loamy,rice,K,Super Phosphate
+23.84,74.62,35.97,Loamy,cotton,N,Urea
+34.24,33.14,81.93,Sandy,groundnut,P,Ammonium Sulphate
+44.37,86.36,11.61,Black,wheat,K,Super Phosphate
+43.33,50.46,16.74,Clay,millet,N,Urea
+23.37,36.42,42.3,Clay,millet,N,Super Phosphate
+39.18,11.61,66.61,Sandy,millet,N,Compost
+15.04,64.3,47.37,Sandy,millet,N,Ammonium Sulphate
+34.61,31.0,70.42,Loamy,barley,N,Super Phosphate
+15.59,12.38,63.58,Red,maize,N,Compost
+25.65,69.1,25.76,Black,rice,P,Urea
+27.6,54.58,46.79,Loamy,wheat,K,Ammonium Sulphate
+35.53,58.48,87.38,Red,cotton,N,Ammonium Sulphate
+42.95,17.03,54.97,Clay,wheat,P,Super Phosphate
+24.88,55.97,40.88,Black,barley,K,Potash
+43.15,56.59,40.24,Loamy,maize,P,Super Phosphate
+25.55,53.48,54.24,Loamy,cotton,K,Ammonium Sulphate
+22.53,56.69,62.85,Black,groundnut,K,Compost
+43.33,17.97,37.23,Red,maize,K,DAP
+20.37,50.67,74.2,Sandy,barley,P,Urea
+30.46,69.54,42.54,Loamy,millet,P,DAP
+12.33,34.93,29.55,Red,groundnut,K,Urea
+34.68,36.27,22.91,Loamy,millet,K,Urea
+18.64,88.11,84.8,Red,cotton,N,Urea
+40.89,45.71,55.25,Black,millet,N,Potash
+35.2,17.02,64.01,Red,millet,N,Ammonium Sulphate
+24.31,70.57,13.67,Clay,maize,N,Potash
+28.44,18.86,30.83,Black,wheat,P,Ammonium Sulphate
+39.94,69.6,88.25,Clay,groundnut,N,Potash
+36.18,85.22,44.34,Sandy,rice,P,Potash
+18.06,66.78,60.17,Black,maize,N,Compost
+42.6,27.86,28.2,Loamy,groundnut,N,Potash
+18.82,12.59,21.96,Sandy,groundnut,N,Compost
+28.42,74.18,35.11,Clay,rice,N,Ammonium Sulphate
+42.16,39.41,53.15,Black,cotton,K,Ammonium Sulphate
+14.16,49.73,10.29,Clay,sugarcane,N,Compost
+25.29,82.42,52.02,Clay,rice,P,Compost
+19.94,15.75,79.19,Loamy,wheat,N,Super Phosphate
+42.92,15.18,14.37,Black,millet,P,Potash
+38.19,18.92,28.64,Red,barley,P,Urea
+29.66,71.84,41.17,Red,maize,K,Ammonium Sulphate
+20.14,47.35,14.05,Red,rice,P,Urea
+44.36,29.55,35.71,Red,groundnut,N,Super Phosphate
+44.74,13.37,28.67,Loamy,rice,K,DAP
+13.59,40.29,20.13,Clay,rice,P,Potash
+31.34,16.88,41.86,Sandy,sugarcane,N,Potash
+35.83,30.29,86.21,Black,cotton,N,Super Phosphate
+15.6,43.89,42.98,Loamy,millet,K,Ammonium Sulphate
+19.71,21.16,33.04,Loamy,maize,N,Compost
+16.12,68.91,53.95,Clay,millet,N,DAP
+15.95,19.59,15.31,Sandy,groundnut,P,DAP
+27.62,40.7,78.56,Red,maize,N,DAP
+25.14,52.89,15.0,Loamy,maize,K,Urea
+38.7,61.98,78.07,Red,maize,P,Compost
+42.42,72.73,88.08,Black,sugarcane,N,DAP
+10.63,48.08,52.42,Clay,cotton,K,Super Phosphate
+42.13,37.89,81.34,Loamy,rice,P,DAP
+41.04,58.16,14.12,Sandy,maize,K,Urea
+43.15,74.02,16.98,Red,millet,N,Ammonium Sulphate
+20.73,13.45,45.96,Black,barley,N,Compost
+20.47,50.54,23.24,Black,groundnut,N,Compost
+11.07,21.37,12.58,Red,groundnut,P,Super Phosphate
+12.37,57.26,14.37,Clay,sugarcane,K,Compost
+32.19,10.52,68.12,Sandy,maize,N,Potash
+34.32,13.52,71.87,Clay,sugarcane,N,Compost
+22.26,61.51,26.1,Red,rice,K,Compost
+10.67,56.12,37.91,Red,millet,P,Super Phosphate
+30.37,88.21,52.01,Loamy,rice,K,Potash
+17.15,68.57,68.44,Clay,barley,K,Super Phosphate
+30.42,87.71,88.07,Sandy,rice,N,Urea
+17.95,76.08,50.32,Red,wheat,K,Compost
+21.62,65.65,54.69,Black,sugarcane,K,Urea
+38.83,81.1,55.48,Black,maize,P,Ammonium Sulphate
+23.91,19.85,24.6,Loamy,sugarcane,K,Urea
+14.86,87.07,79.36,Black,cotton,P,Super Phosphate
+15.05,31.92,11.27,Loamy,barley,K,Compost
+28.53,76.26,76.39,Red,millet,N,Urea
+19.71,17.99,39.27,Sandy,maize,K,DAP
+24.67,10.55,71.53,Clay,millet,K,DAP
+33.86,31.16,24.73,Loamy,cotton,K,DAP
+15.25,17.3,55.78,Loamy,rice,P,Ammonium Sulphate
+39.14,22.08,73.88,Red,rice,P,Potash
+11.62,86.3,84.84,Red,groundnut,P,Urea
+18.6,14.85,21.98,Clay,sugarcane,K,Ammonium Sulphate
+21.03,64.89,66.16,Black,wheat,N,Compost
+44.36,35.12,74.57,Red,rice,P,Urea
+12.2,42.22,28.34,Loamy,maize,N,Super Phosphate
+29.52,29.63,67.24,Clay,barley,K,Ammonium Sulphate
+30.52,44.1,88.1,Red,groundnut,P,Ammonium Sulphate
+43.02,24.91,62.64,Loamy,maize,P,Potash
+38.98,22.87,78.05,Red,sugarcane,P,DAP
+37.36,13.79,19.01,Loamy,cotton,N,Ammonium Sulphate
+30.6,31.43,73.02,Black,maize,N,Urea
+18.62,83.06,77.23,Black,maize,P,Urea
+34.43,39.32,14.92,Black,millet,N,Compost
+13.31,68.97,22.37,Red,cotton,N,Compost
+44.38,29.95,67.34,Clay,sugarcane,P,Ammonium Sulphate
+21.91,14.43,32.69,Loamy,maize,P,DAP
+26.85,60.02,86.11,Black,rice,K,Urea
+11.01,28.59,31.0,Red,maize,N,DAP
+10.11,83.67,15.07,Red,rice,K,Compost
+23.6,17.03,43.24,Sandy,millet,P,Compost
+27.65,75.21,45.45,Clay,maize,P,Ammonium Sulphate
+31.46,41.09,57.25,Loamy,rice,N,DAP
+40.52,51.59,32.07,Black,cotton,K,Potash
+15.6,13.36,50.07,Clay,groundnut,P,DAP
+22.84,19.41,24.02,Clay,maize,K,DAP
+20.85,19.8,37.01,Sandy,cotton,P,Urea
+35.95,66.44,49.73,Clay,millet,P,DAP
+20.73,61.82,17.89,Loamy,maize,P,Ammonium Sulphate
+38.19,25.27,45.62,Black,rice,K,Compost
+41.96,13.88,35.94,Clay,maize,N,DAP
+15.65,56.78,86.88,Black,millet,N,Super Phosphate
+32.79,47.01,68.26,Loamy,groundnut,P,Urea
+40.25,67.52,41.8,Clay,rice,N,Potash
+14.19,49.3,54.83,Red,maize,P,Super Phosphate
+19.35,59.65,25.03,Loamy,barley,P,Ammonium Sulphate
+20.29,20.56,15.65,Sandy,rice,N,Potash
+35.46,12.94,77.37,Clay,cotton,K,Potash
+13.65,28.24,63.31,Clay,sugarcane,N,DAP
+31.27,58.33,44.87,Red,maize,K,Ammonium Sulphate
+44.1,23.36,46.42,Black,cotton,K,Super Phosphate
+32.37,75.31,66.6,Sandy,cotton,N,Compost
+38.69,83.1,55.68,Clay,barley,K,Super Phosphate
+14.36,89.13,11.05,Clay,rice,K,Potash
+16.77,20.93,18.75,Clay,groundnut,P,DAP
+42.34,60.87,62.74,Clay,maize,P,Potash
+18.94,45.94,30.32,Black,millet,P,Super Phosphate
+10.98,83.24,84.41,Clay,maize,N,Compost
+24.19,17.43,69.12,Clay,millet,K,Urea
+13.68,64.49,48.73,Clay,barley,P,Compost
+40.05,27.68,12.54,Clay,wheat,K,DAP
+42.19,69.37,14.02,Clay,millet,K,Potash
+19.85,29.17,49.9,Sandy,cotton,K,DAP
+16.61,20.83,87.96,Red,millet,N,Potash
+44.08,15.13,27.08,Black,sugarcane,K,Super Phosphate
+17.3,75.03,75.01,Clay,barley,N,DAP
+23.98,21.31,61.01,Black,maize,K,DAP
+31.08,77.36,87.23,Clay,barley,K,Compost
+40.29,47.8,87.58,Red,cotton,N,Compost
+42.3,56.13,71.02,Loamy,barley,P,Super Phosphate
+20.38,52.69,67.56,Sandy,groundnut,P,Urea
+10.26,83.17,27.44,Black,wheat,N,Ammonium Sulphate
+44.95,25.9,55.89,Loamy,cotton,N,Compost
+23.28,80.39,89.23,Black,rice,P,Potash
+34.18,84.85,21.72,Loamy,sugarcane,K,Potash
+18.94,58.47,45.83,Sandy,barley,K,DAP
+16.01,85.76,63.71,Clay,maize,P,Compost
+31.29,68.54,77.51,Sandy,rice,P,DAP
+26.2,83.68,27.57,Sandy,wheat,P,Ammonium Sulphate
+13.46,17.8,64.09,Sandy,cotton,P,DAP
+31.72,11.26,32.04,Clay,rice,N,Potash
+13.27,29.58,85.05,Loamy,wheat,K,Compost
